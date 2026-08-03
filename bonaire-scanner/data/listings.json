@@ -1,0 +1,5608 @@
+[
+  {
+    "title": "Residential and Vacation Rental Development Lot",
+    "price": 1200000,
+    "price_display": "$1,200,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-sali-a-di-vlijt-kralendijk-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Ridge 1",
+    "price": 2400000,
+    "price_display": "$2,400,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-ridge-1",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma # 17 Spacious Building Lot with unobstructed view",
+    "price": 329000,
+    "price_display": "$329,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-la-palma-17-la-palma",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 2900000,
+    "price_display": "$2,900,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-56e29b",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 1550000,
+    "price_display": "$1,550,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-4e6382",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 2500000,
+    "price_display": "$2,500,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-c584ae",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-95f6a1",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 4300000,
+    "price_display": "$4,300,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-6b334a",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 4600000,
+    "price_display": "$4,600,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-315575",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 4300000,
+    "price_display": "$4,300,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-f92080",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 3000000,
+    "price_display": "$3,000,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands-7eb745",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Generoso",
+    "price": 165000,
+    "price_display": "$165,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-generoso-e2913a",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Zoning Mixed4 Belnem",
+    "price": 385000,
+    "price_display": "$385,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-zoning-mixed4-belnem-9f65fd",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Nikiboko Zuid Commercial 2735",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-nikiboko-zuid-commercial-2735-d3a898",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Palm Paradise",
+    "price": 229000,
+    "price_display": "$229,000",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-palm-paradise-6a58b1",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hato Garden Apartments",
+    "price": 476200,
+    "price_display": "$476,200",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-hato-garden-apartments-02faa6",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Windhoek Boutique Resort Bonaire",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-boutique-resort",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Di Kurason pa bo apartments (Type 2)",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-di-kurason-pa-bo-apartments-type-2",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Di Kurason pa bo apartments (Type 1)",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-di-kurason-pa-bo-apartments-type-1",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Terrace 129",
+    "price": 560000,
+    "price_display": "$560,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-92-crown-terrace-5145e6",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Belnem House 14",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-7-eeg-boulevard-3e59b5",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence Blok K",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-kaya-monseigneur-nieuwindt-a0a425",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Tasca Building Apartments",
+    "price": 2300000,
+    "price_display": "$2,300,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-tasca-building-apartments",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Pre Sale Mon Rêve",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-pre-sale-mon-r-ve-hato",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Alicia",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-alicia-cad8d7",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Akwamarin",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-akwamarin-6c7593",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Sirena",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-sirena-c13927",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Bona Bista B17",
+    "price": 599000,
+    "price_display": "$599,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-bona-bista-b17",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Piedra Precioso 19",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-piedra-precioso-19",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Sabal Palm 65",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-sabal-palm-65",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Bella Vista",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-bella-vista",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Krabe 16A, 16B",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-krabe-16a-16b",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Bahia Watervilla 9",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-bahia-watervilla-9",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Gloria 9",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-gloria-9",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya General Manuel Piar",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-general-manuel-piar",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Irlandia 19",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-irlandia-19",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Pauwnee 4 Apartments",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-pauwnee-4-apartments",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "kaya Stormvogel 8",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-stormvogel-8",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Safiro 11",
+    "price": 1150000,
+    "price_display": "$1,150,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-safiro-11-0b8980",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hato Garden Apartments",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-hato-garden-apartments",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Pre-sale Kaya Pos di Hala",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-pre-sale-kaya-pos-di-hala",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma 6 (lot 4-H-478)",
+    "price": 250000,
+    "price_display": "$250,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-6-la-palma",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Building Lot at Crown Ridge",
+    "price": 275000,
+    "price_display": "$275,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-crown-ridge-28-sabadeco-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Bolivia Landhuis",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-bolivia-landhuis",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Lot Kaya Kayena",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-lot-kaya-kayena",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kas Palulu",
+    "price": 399000,
+    "price_display": "$399,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-kas-palulu",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Diamanta 92",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-diamanta-92",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 87",
+    "price": 193000,
+    "price_display": "$193,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-vista-royal-87",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence 45",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-45-regatta-residence",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Terramar 8 Penthouse",
+    "price": 1100000,
+    "price_display": "$1,100,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-terramar-8-penthouse",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yacht Residence Apartments B10 (1-, 1bath)",
+    "price": 337500,
+    "price_display": "$337,500",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartments-b10-1-bed-1bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yacht Residence Apartments B01 (2-, 2-bath)",
+    "price": 492000,
+    "price_display": "$492,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartments-b01-2-bed-2-bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yacht Residence Apartments B12 (Duplex)",
+    "price": 650000,
+    "price_display": "$650,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartments-b12-duplex",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yacht Residence Apartments B11 (2-, 2bath)",
+    "price": 525000,
+    "price_display": "$525,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartments-b11-2-bed-2bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Lot Kralendijk",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-lot-kralendijk",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Grand Windsock Villa with Private Pool",
+    "price": 650000,
+    "price_display": "$650,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-grand-windsock-villa-12-belnem-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Suikerpalm 40",
+    "price": 198000,
+    "price_display": "$198,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-40",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Centrally located Apartment",
+    "price": 239000,
+    "price_display": "$239,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-caribbean-court-c313-kralendijk-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "3reef",
+    "price": 4600000,
+    "price_display": "$4,600,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-3reef",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sorobon Bay Apartment",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-sorobon-bay-apartment",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Caribe 14.520 m2",
+    "price": 1200000,
+    "price_display": "$1,200,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-89-kaya-caribe",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Bona Bista A-41",
+    "price": 186000,
+    "price_display": "$186,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-a-41-bona-bista",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yacht Residence Apartments Penthouse B15",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartments-penthouse-b15",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Heru 14",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-heru-14",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "HATRI Oasis Belnem",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-hatri-oasis-belnem",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Beach Villa 3",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-beach-villa-3",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Home within walking distance of Bachelor Beach",
+    "price": 549000,
+    "price_display": "$549,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-eeg-boulevard-67-belnem-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Versatile Estate with Private Tennis Court!",
+    "price": 1300000,
+    "price_display": "$1,300,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-opal-8-santa-b-rbara-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Charming tropical cottage at Waterlands Village",
+    "price": 525000,
+    "price_display": "$525,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-waterlands-village-21-kralendijk-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista royal village 45",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/vista-royal-village-45-mr3o0pf2",
+    "broker": "Onbekend",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Rare 30-Acre Building Plot in Luga Aleha",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-luga-aleha-3-kunuku-area-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BONAIRE Caribbean Netherlands",
+    "price": 4600000,
+    "price_display": "$4,600,000",
+    "url": "https://bonaire-brokers.com/properties/baerz-co-bonaire-caribbean-netherlands",
+    "broker": "Baerz & Co",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Oceanfront Gem - Rare Find!",
+    "price": 1350000,
+    "price_display": "$1,350,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-playa-lechi-14-kralendijk-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sorobon Bay Hotel Apartment 3",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-sorobon-bay-hotel-apartment-3",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence apt. 109",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-regatta-residence-apt-109",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence apt. 108",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-regatta-residence-apt-108",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence apt. 27",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-regatta-residence-apt-27",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Regatta Residence apt. 26",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-regatta-residence-apt-26",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaminda Lagoen 45a",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-45a-kaminda-lagoen",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Terramar 12",
+    "price": 689800,
+    "price_display": "$689,800",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-j-n-e-craane-terramar-12",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman Apartment",
+    "price": 680000,
+    "price_display": "$680,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-den-laman-apartment",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Cubana Resort 10",
+    "price": 435000,
+    "price_display": "$435,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-10-cubana-resort",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Plenchi Makamba 3",
+    "price": 335000,
+    "price_display": "$335,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-plenchi-makamba-3",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "LR-Res. Pleinchi Blanku",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-lr-res-pleinchi-blanku",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Terramar 7 | High class sea front condos nestled at the beautiful boulevard of Kralendijk",
+    "price": 695100,
+    "price_display": "$695,100",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-j-n-e-craane-terramar-7",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 77",
+    "price": 685000,
+    "price_display": "$685,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-vista-royal-77",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "LAMAN CURAÇAO Pelikan Luxury Water Villas",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-laman-cura-ao-pelikan-luxury-water-villas",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "LAMAN CURAÇAO Kiwa Apartments",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-laman-cura-ao-kiwa-apartments",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 73 (last one!)",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-vista-royal-73-last-one",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Maraka",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-maraka",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya America",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-america",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Lot Zoning Hotel Belnem",
+    "price": 450000,
+    "price_display": "$450,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-lot-zoning-hotel-belnem",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Silent Ocean Playa Pariba",
+    "price": 3300000,
+    "price_display": "$3,300,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-silent-ocean-playa-pariba",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Castor",
+    "price": 80000,
+    "price_display": "$80,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-castor",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Lot 1105",
+    "price": 160000,
+    "price_display": "$160,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-lot-1105",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Elvira 17",
+    "price": 383800,
+    "price_display": "$383,800",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-elvira-17",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Montagne Ochenta 3",
+    "price": 220000,
+    "price_display": "$220,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-montagne-ochenta-3",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Generoso",
+    "price": 165000,
+    "price_display": "$165,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-generoso",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 104",
+    "price": 142500,
+    "price_display": "$142,500",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-vista-royal-104",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 91",
+    "price": 157000,
+    "price_display": "$157,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-vista-royal-91",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Buena Vista",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-buena-vista",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaminda Seru Grita Kabai",
+    "price": 425000,
+    "price_display": "$425,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaminda-seru-grita-kabai",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Zoning Hotel Belnem",
+    "price": 450000,
+    "price_display": "$450,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-zoning-hotel-belnem",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Nikiboko Zuid Commercial 2735",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-nikiboko-zuid-commercial-2735",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Karpitan",
+    "price": 109000,
+    "price_display": "$109,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-karpitan",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Aruaco",
+    "price": 109000,
+    "price_display": "$109,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-aruaco",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Oniks",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-oniks",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Ocean Breeze Villa 9",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-ocean-breeze-villa-9",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Ocean Breeze Villa 5",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-ocean-breeze-villa-5",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Avelino Cecilia",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-avelino-cecilia",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Tamarein Villa 3",
+    "price": 298000,
+    "price_display": "$298,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-tamarein-villa-3",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Cathalina",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-cathalina",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kana",
+    "price": 265000,
+    "price_display": "$265,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-kana",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Krisolito",
+    "price": 345000,
+    "price_display": "$345,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-krisolito",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Para Mira",
+    "price": 345000,
+    "price_display": "$345,000",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-para-mira",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Commerciële Kavels Tera Kora",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-commerci-le-kavels-tera-kora",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Villa Verde",
+    "price": 1500000,
+    "price_display": "$1,500,000",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-villa-verde",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Palm Paradise",
+    "price": 399000,
+    "price_display": "$399,000",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-palm-paradise",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Complex Kaya Uranus",
+    "price": 1500000,
+    "price_display": "$1,500,000",
+    "url": "https://bonaire-brokers.com/properties/nlc-real-estate-complex-kaya-uranus",
+    "broker": "NLC Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal Village 52",
+    "price": 167500,
+    "price_display": "$167,500",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-vista-royal-village-52",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma 72",
+    "price": 799000,
+    "price_display": "$799,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-72-la-palma",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Reef 9",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-reef-9",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Mona Lisa Bar & Restaurant",
+    "price": 1500000,
+    "price_display": "$1,500,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-grandi-15-kralendijk-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Heru 4-A-2307",
+    "price": 189000,
+    "price_display": "$189,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-heru-4-a-2307",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Playa Lechi 4",
+    "price": 775000,
+    "price_display": "$775,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-playa-lechi-4",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Bellafonte 105/106",
+    "price": 1100000,
+    "price_display": "$1,100,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-bellafonte-105",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Galeen 37 Duplex",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-galeen-37-duplex",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sabadeco Villa",
+    "price": 1395000,
+    "price_display": "$1,395,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-sabadeco-villa",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Ocean View Villa",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-ocean-view-villa",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Relaxed Bonaire Living as it Used To Be!",
+    "price": 465000,
+    "price_display": "$465,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-begonia-9-rinc-n-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hummingbird Villa SABA",
+    "price": 1500000,
+    "price_display": "$1,500,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-hummingbird-villa-saba",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Bolivia 97",
+    "price": 500000,
+    "price_display": "$500,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bolivia-97",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kunuku Arawak",
+    "price": 2800000,
+    "price_display": "$2,800,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-kunuku-arawak",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya C.E.B Hellmund 33",
+    "price": 925000,
+    "price_display": "$925,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-kaya-c-e-b-hellmund-33",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Park 12, Sabadeco",
+    "price": 895000,
+    "price_display": "$895,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-crown-park-12-sabadeco",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sonrisa di Lac 70",
+    "price": 545000,
+    "price_display": "$545,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-sonrisa-di-lac-70",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Karet 7",
+    "price": 795000,
+    "price_display": "$795,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-kaya-karet-7",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Villas 10",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-villas-10",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kas Koral",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-kas-koral",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Crown West 206",
+    "price": 1550000,
+    "price_display": "$1,550,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-west-206",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal Village 5",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-vista-royal-village-5",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sabadeco Terrace 37",
+    "price": 510000,
+    "price_display": "$510,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-sabadeco-terrace-37",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Exclusive Oceanfront Villa with Private Beach & Infinity Pool",
+    "price": 3295000,
+    "price_display": "$3,295,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-bulevar-gobernador-nicolaas-debrot-157-hato",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Ocean View Apartment!",
+    "price": 549000,
+    "price_display": "$549,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-grand-windsock-apartment-b09-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Versatile Home with Rental Income Potential",
+    "price": 610000,
+    "price_display": "$610,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-fedalma-5-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Venus 14",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-14-kaya-venus",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sabal Palm 22",
+    "price": 676337,
+    "price_display": "$676,337",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-sabal-palm-22",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 60",
+    "price": 505500,
+    "price_display": "$505,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-60",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 59",
+    "price": 510500,
+    "price_display": "$510,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-59",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 58",
+    "price": 585000,
+    "price_display": "$585,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-58",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 43",
+    "price": 513500,
+    "price_display": "$513,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-43",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 42",
+    "price": 512000,
+    "price_display": "$512,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-42",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 41",
+    "price": 591000,
+    "price_display": "$591,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-41",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 40",
+    "price": 595500,
+    "price_display": "$595,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-40",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 39",
+    "price": 579000,
+    "price_display": "$579,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-39",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 36",
+    "price": 609000,
+    "price_display": "$609,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-36",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 35",
+    "price": 691000,
+    "price_display": "$691,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-35",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 34",
+    "price": 696000,
+    "price_display": "$696,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-34",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Delfins Beach Resort Villa 5",
+    "price": 1350000,
+    "price_display": "$1,350,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-delfins-beach-resort-villa-5",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Dinamarka Complex",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-dinamarka-complex",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kitara Complex",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-kitara-complex",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaminda La Union",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaminda-la-union",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Norma Warehouse",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-norma-warehouse",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Zoning Mixed4 Belnem",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-zoning-mixed4-belnem",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Alkmaar",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-alkmaar",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Property Land 1106",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-property-land-1106",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Papa Cornes",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-papa-cornes",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Property Land 1107",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-property-land-1107",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "La Union",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-la-union",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Lot 1533",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-lot-1533",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Lourdes Rincon",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-lourdes-rincon",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Montagne Ochenta 6",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-montagne-ochenta-6",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Montagne Ochenta 5",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-montagne-ochenta-5",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Montagne Ochenta 4",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-montagne-ochenta-4",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Priscila",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-priscila",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Montagne Ochenta 2",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-montagne-ochenta-2",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Vita",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-vita",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Elvira 23",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-elvira-23",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Bara Di Karta",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-bara-di-karta",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal 103",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-vista-royal-103",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Flamingo",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-flamingo",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Kachu",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-kachu",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kitara B",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-kitara-b",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kitara A",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-kitara-a",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaminda Essequibo",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaminda-essequibo",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Bermejo",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-bermejo",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Santa Barbara",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-santa-barbara",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Commerce",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-commerce",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Krabe",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-krabe",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Nikiboko Noord",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-nikiboko-noord",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Amboina 88",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-amboina-88",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Alicia",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-alicia",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Chico",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-chico",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Heerlen",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-heerlen",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seri Suit",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-seri-suit",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Tamarein Villa 5",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-tamarein-villa-5",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Tamarein Villa 4",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-tamarein-villa-4",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Tamarein Villa 2",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-tamarein-villa-2",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Tamarein Villa 1",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-tamarein-villa-1",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Pos Karana",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-pos-karana",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Ancela",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-ancela",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Cauca Living 4",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-cauca-living-4",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Cauca Living 3",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-cauca-living-3",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Cauca Living 1",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-cauca-living-1",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Mars",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-mars",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Akwamarin",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-akwamarin",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Mexico 1",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-mexico-1",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Stelchi",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-stelchi",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Sirena",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-sirena",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Falkon",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-falkon",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Maria",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-maria",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vrv 16",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-vrv-16",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Club Nautico",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-club-nautico",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Mississippi",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-mississippi",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Pilon",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-pilon",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Heerlen 12",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-heerlen-12",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Inglatera",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-inglatera",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Breda 56",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-kaya-breda-56",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Sabadeco Crown Shore 62",
+    "price": 1950000,
+    "price_display": "$1,950,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-sabadeco-crown-shore-62",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma 23",
+    "price": 899000,
+    "price_display": "$899,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-la-palma-23",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma 21",
+    "price": 799000,
+    "price_display": "$799,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-la-palma-21",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Suikerpalm 95",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-suikerpalm-95",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hamlet Oasis 10",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-hamlet-oasis-10",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Pos Di Watapana 65",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-pos-di-watapana-65",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Terrace 31",
+    "price": 2100000,
+    "price_display": "$2,100,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-crown-terrace-31",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Caribbean Court 222",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-caribbean-court-222",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Plaza Fraternan Di Tilburg 2",
+    "price": 599000,
+    "price_display": "$599,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-plaza-fraternan-di-tilburg-2",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Benue 15B",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-benue-15b",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal Village 111",
+    "price": 998000,
+    "price_display": "$998,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-vista-royal-village-111",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Yellow Garden 15",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-yellow-garden-15",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Ridge 34",
+    "price": 870000,
+    "price_display": "$870,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-crown-ridge-34",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Heru 28",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-heru-28",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Caribbean Club 220",
+    "price": 275000,
+    "price_display": "$275,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-caribbean-club-220",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown West Villa",
+    "price": 2000000,
+    "price_display": "$2,000,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-crown-west-villa",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Dorado Lot",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-dorado-lot",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Playa View unit D",
+    "price": 329500,
+    "price_display": "$329,500",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-playa-view-unit-d",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Playa View unit B",
+    "price": 308500,
+    "price_display": "$308,500",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-playa-view-unit-b",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Playa View unit C",
+    "price": 308500,
+    "price_display": "$308,500",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-playa-view-unit-c",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal Village kavel 15",
+    "price": 177000,
+    "price_display": "$177,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-vista-royal-village-kavel-15",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Caribbean court 2",
+    "price": 249000,
+    "price_display": "$249,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-caribbean-court-2",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Serafina 24 A",
+    "price": 249000,
+    "price_display": "$249,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-serafina-24-a",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Rincon Villas",
+    "price": 275000,
+    "price_display": "$275,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-rincon-villas",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Lagoen Hill 31",
+    "price": 313500,
+    "price_display": "$313,500",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-lagoen-hill-31",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaminda Lagun 41",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaminda-lagun-41",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Papa cornes 41",
+    "price": 469500,
+    "price_display": "$469,500",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-papa-cornes-41",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Gobernador N Debrot 14",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-gobernador-n-debrot-14",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Scorpio 15",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-scorpio-15",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Norwega 2",
+    "price": 540000,
+    "price_display": "$540,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-norwega-2",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kibra i Montana 84",
+    "price": 547000,
+    "price_display": "$547,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kibra-i-montana-84",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Aries 2",
+    "price": 585000,
+    "price_display": "$585,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-aries-2",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Grond te koop",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-grond-te-koop",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "BV te koop !!!",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-bv-te-koop",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Safiro 11, Turn- Key Bed & Breakfast / Woonvilla",
+    "price": 1150000,
+    "price_display": "$1,150,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-kaya-safiro-11-turn-key-bed-breakfast-woonvilla",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Shores 13",
+    "price": 3000000,
+    "price_display": "$3,000,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-shores-13",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Terrace 125",
+    "price": 395000,
+    "price_display": "$395,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-terrace-125",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Apartments",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-apartments",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Chachacha Apartment 5",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-chachacha-apartment-5",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Krabè 26",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-26-kaya-krab",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Kuadria 9",
+    "price": 498000,
+    "price_display": "$498,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-kuadria-9",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Saramacca 3",
+    "price": 1350000,
+    "price_display": "$1,350,000",
+    "url": "https://bonaire-brokers.com/properties/keller-williams-bonaire-operating-island-wide",
+    "broker": "Keller Williams Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "LA PALMA LOT #63 Spacious and full flexibility",
+    "price": 239500,
+    "price_display": "$239,500",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-la-palma-lot-63-spacious-and-full-flexibility",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Oceanfront Apartment Elegancia del Caribe #2",
+    "price": 680000,
+    "price_display": "$680,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-oceanfront-apartment-elegancia-del-caribe-2",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "OLD LAGOEN / Spacious Building Lot #20 (Bonaire)",
+    "price": 139500,
+    "price_display": "$139,500",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-old-lagoen-spacious-building-lot-20-bonaire",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "LAGOEN HILL 50 House & Studio Rental investment",
+    "price": 359000,
+    "price_display": "$359,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-lagoen-hill-50-house-studio-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Bonaire Exclusief 7 / 7A (2 Houses | Holiday Rental / Bed & Breakfast",
+    "price": 640000,
+    "price_display": "$640,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-bonaire-exclusief-7-7a-2-houses-holiday-rental-bed-breakfast",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal Village Building Lot 52",
+    "price": 150000,
+    "price_display": "$150,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-vista-royal-village-building-lot-52",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Luxurious Oceanfront Piet Boon Villa Bonaire",
+    "price": 3950000,
+    "price_display": "$3,950,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-luxurious-oceanfront-piet-boon-villa-bonaire",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seaside 5 Oceanfront Penthouse",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-seaside-5-oceanfront-penthouse",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Berilo 21 (Spacious Rooftop Terrace Villa)",
+    "price": 649000,
+    "price_display": "$649,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-berilo-21-spacious-rooftop-terrace-villa",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Ocean View Apartment Club Nautico",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-ocean-view-apartment-club-nautico",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Modern Luxurious Villa Punt Vierkant 82",
+    "price": 798000,
+    "price_display": "$798,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-modern-luxurious-villa-punt-vierkant-82",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal Village Building Lot 50",
+    "price": 142500,
+    "price_display": "$142,500",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-vista-royal-village-building-lot-50",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal Village Building Lot 48",
+    "price": 142500,
+    "price_display": "$142,500",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-vista-royal-village-building-lot-48",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "3 room Villa with private pool Sabal Palm 39",
+    "price": 698000,
+    "price_display": "$698,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-3-bedroom-villa-with-private-pool-sabal-palm-39",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "TASCA Building Apartments",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-tasca-building-apartments",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Leo 4",
+    "price": 465000,
+    "price_display": "$465,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-leo-4",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Leo 3",
+    "price": 375000,
+    "price_display": "$375,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-leo-3",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Leo 2",
+    "price": 465000,
+    "price_display": "$465,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-leo-2",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Leo 1",
+    "price": 375000,
+    "price_display": "$375,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-leo-1",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire Penthouse B2.4",
+    "price": 495000,
+    "price_display": "$495,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-resort-bonaire-penthouse-b2-4",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Apartment 7, Kaya J.N.E. Craane",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-apartment-7-kaya-j-n-e-craane",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Punt Vierkant 48 Amazing Villa Vaction Rental Investment",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-punt-vierkant-48-amazing-villa-vaction-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious building Lot Suikerpalm 87 Popular Area",
+    "price": 259000,
+    "price_display": "$259,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-spacious-building-lot-suikerpalm-87-popular-area",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "3 room Oceanfront Apartment Terramar 10",
+    "price": 855000,
+    "price_display": "$855,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-3-bedroom-oceanfront-apartment-terramar-10",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seaside 3 Oceanfront Suite, Rental investment",
+    "price": 950000,
+    "price_display": "$950,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-seaside-3-oceanfront-suite-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Resort Bonaire Penthouse F2.4. Rental Investment",
+    "price": 398000,
+    "price_display": "$398,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-resort-bonaire-penthouse-f2-4-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman Apartment Studio - Black Durgan",
+    "price": 450000,
+    "price_display": "$450,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-apartment-studio-black-durgan",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman 1 room Ocean View Apartment - Flounder",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-1-bedroom-ocean-view-apartment-flounder",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman 1 room apartment Oceanfront - Yellow Tail Snapper",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-1-bedroom-apartment-oceanfront-yellow-tail-snapper",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman studio apartment - Rough Scad",
+    "price": 485000,
+    "price_display": "$485,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-studio-apartment-rough-scad",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman Apartment 2 rooms & 2 bathrooms Side Ocean View - Wahoo",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-apartment-2-bedrooms-2-bathrooms-side-ocean-view-wahoo",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman 1 room Apartment Oceanfront - Parrot Fish",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-1-bedroom-apartment-oceanfront-parrot-fish",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Silent Listing: Oceanfront Villa (Vacation Rental Investment)",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-silent-listing-oceanfront-villa-vacation-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Oceanfront Reef Villa Sabadeco Vacation Rental Investment",
+    "price": 3300000,
+    "price_display": "$3,300,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-oceanfront-reef-villa-sabadeco-vacation-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Pos Di Karaña 14 | 2 houses one plot rental investment",
+    "price": 498000,
+    "price_display": "$498,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-pos-di-kara-a-14-2-houses-one-plot-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious Lot including building permit Sabadeco Crown Shores 61",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-spacious-lot-including-building-permit-sabadeco-crown-shores-61",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Oceanfront Villa good rental investment",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-oceanfront-villa-good-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman Apartment 2-room Oceanfront & Beach - Blue Marlin",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-den-laman-apartment-2-bedroom-oceanfront-beach-blue-marlin",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Berilo 16 Luxury villa with private pool",
+    "price": 879000,
+    "price_display": "$879,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-kaya-berilo-16-luxury-villa-with-private-pool",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Charming and spacious family home",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-solo-8-belnem",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Industrial lot 2, Tera Kora",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-tera-kora-kralendijk-bonaire-caribbean-netherlands",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Versatile lot with detached house",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-finlandia-25-kralendijk",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal 79",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-vista-royal-village-plot-79",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal 73 (last one!)",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-vista-royal-village-lot-73",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal 77",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-vista-royal-village-plot-77",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Luxury living with panoramic views Bonaire",
+    "price": 1750000,
+    "price_display": "$1,750,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-sabadeco-crown-terrace-26-kralendijk",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Off-market listings",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kralendijk-caribbean-netherlands",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Turn-Key Caribbean One-room apartments in the heart of Bonaire",
+    "price": 225000,
+    "price_display": "$225,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-inglatera-kralendijk-caribbean-netherlands",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Eco Lodge Bonaire – Sustainable Villas with Rental Flexibility",
+    "price": 285000,
+    "price_display": "$285,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Modern island living with views, pool & rental potential",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-21-kaya-piedra-presioso-kralendijk-caribbean-netherlands",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Prime building lot near Andrea dive site",
+    "price": 298000,
+    "price_display": "$298,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-45-crown-ridge-kralendijk-caribbean-netherlands",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Watervillas Apartment",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-watervillas-apartment",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Dorotea 8",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-kaya-dorotea-8",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Sabal Palm 118",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-sabal-palm-118",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Luga Aleha 22",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-luga-aleha-22",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Villa Valena 4",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-villa-valena-4",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Belnem Breeze Apartment",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-belnem-breeze-apartment",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Andromeda 14",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-kaya-andromeda-14",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Watervillas Apartment 48B",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-watervillas-apartment-48b",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Watervillas Apartment 54A",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-watervillas-apartment-54a",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Villa Valena Apartment #1",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-villa-valena-apartment-1",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "4-Unit Investment Object",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-4-unit-investment-object",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Penthouse with Oceanview",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-penthouse-with-oceanview",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Villa Valena Apartment #3",
+    "price": 334500,
+    "price_display": "$334,500",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-villa-valena-apartment-3",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Watervillas 46A with pool",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://bonaire-brokers.com/properties/rj-real-estate-watervillas-46a-with-pool",
+    "broker": "RJ Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal – Bouwkavel",
+    "price": 155000,
+    "price_display": "$155,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-vista-royal-bouwkavel",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Neerlandia 10",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-neerlandia-10",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Barakuda Z/N",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-barakuda-z-n",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Mendelssohn 10",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-mendelssohn-10",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Anna 15",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-anna-15",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Industria",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-industria",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaminda Brudernan Di Brakepoti Brakkeput",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaminda-brudernan-di-brakepoti-brakkeput",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Skerpene Living Curacao",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-skerpene-living-curacao",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Mandolin 8",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-mandolin-8",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Apartments Kaya Finlandia 2",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-apartments-kaya-finlandia-2",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Theresa Ilario",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-theresa-ilario",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Manuwa 2",
+    "price": 235000,
+    "price_display": "$235,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-manuwa-2",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kaskaskia",
+    "price": 330000,
+    "price_display": "$330,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-kaskaskia",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Beethoven 8",
+    "price": 340000,
+    "price_display": "$340,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-beethoven-8",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Atom",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-atom",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Plot for sale in Antriol",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-plot-for-sale-in-antriol",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Plot Lasana – Rincon",
+    "price": 225000,
+    "price_display": "$225,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-plot-lasana-rincon",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Gobernador N. Debrot",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-gobernador-n-debrot",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Utrecht",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-utrecht",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Neerlandia",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-neerlandia",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Plot Santa Barbara",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-plot-santa-barbara",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Bell",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-bell",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "House in Belnem",
+    "price": 299500,
+    "price_display": "$299,500",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-house-in-belnem",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Macario Sint Jago 61",
+    "price": 310000,
+    "price_display": "$310,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-macario-sint-jago-61",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Oneida",
+    "price": 150000,
+    "price_display": "$150,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-oneida",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Luna 7",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-luna-7",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Ruth",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-ruth",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Pos di Watapana",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-pos-di-watapana",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Benue",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-benue",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Oro 45",
+    "price": 690000,
+    "price_display": "$690,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-oro-45",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Johanna 11",
+    "price": 300000,
+    "price_display": "$300,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-johanna-11",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Lot Kaya Safir",
+    "price": 199000,
+    "price_display": "$199,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-lot-kaya-safir",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Lot Kaya Caroni",
+    "price": 140000,
+    "price_display": "$140,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-lot-kaya-caroni",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Begonia 9",
+    "price": 465000,
+    "price_display": "$465,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-begonia-9",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaminda Onima 105, Building Lot + Permits",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaminda-onima-105-building-lot-permits",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Vista Royal – Building Lot",
+    "price": 155000,
+    "price_display": "$155,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-vista-royal-building-lot",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Rofina 14",
+    "price": 255000,
+    "price_display": "$255,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-rofina-14",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Finlandia",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/karko-real-estate-503-service-unavailable",
+    "broker": "Karko Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Resort Bonaire F0.5",
+    "price": 200000,
+    "price_display": "$200,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-60-kaya-saturnus",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Den Haag 7 - Aquarius Residence",
+    "price": 1820000,
+    "price_display": "$1,820,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-7-kaya-den-haag",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Buddy Dive 408",
+    "price": 349500,
+    "price_display": "$349,500",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-85-kaya-gob-n-debrot",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "SeaSide Apartment 208",
+    "price": 225000,
+    "price_display": "$225,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-41-boulevar-gobernador-n-debrot",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "SeaSide Apartment 106",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-41-boulevard-gobernador-n-debrot",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Begonia 2 - Rincon",
+    "price": 400000,
+    "price_display": "$400,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-2-kaya-begonia",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Sirena 9 A2",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-9-a2-kaya-sirena",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Lagoen Hill 54a",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-54a-lagoen-hill",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Villa Carina Apartments - EEG Boulevard 81",
+    "price": 1450000,
+    "price_display": "$1,450,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-81-eeg-boulevard",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Caribbean Court D433",
+    "price": 535000,
+    "price_display": "$535,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-82-j-a-abraham-boulevard",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Court 4 - bouwkavel",
+    "price": 350000,
+    "price_display": "$350,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-4-crown-court",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Brida 5",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-5-kaya-brida",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Luga Aleha 17",
+    "price": 1250000,
+    "price_display": "$1,250,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-17-luga-aleha",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Dorado 12",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-12-kaya-dorado",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Tre 4",
+    "price": 364000,
+    "price_display": "$364,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-4-kaya-tre",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown Terrace 92",
+    "price": 1285000,
+    "price_display": "$1,285,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-92-crown-terrace",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hato Business Park",
+    "price": 286440,
+    "price_display": "$286,440",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-kaya-papago",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Triton 28ABC",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-triton-28abc",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Suikerpalm 38",
+    "price": 198500,
+    "price_display": "$198,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-38",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Crown West 245",
+    "price": 495000,
+    "price_display": "$495,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-crown-west-245",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Saturnus 26B",
+    "price": 355000,
+    "price_display": "$355,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-saturnus-26b",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Crown Shores 65",
+    "price": 1290000,
+    "price_display": "$1,290,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-crown-shores-65",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire E0.6",
+    "price": 250000,
+    "price_display": "$250,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-e0-6",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire F0.1",
+    "price": 259500,
+    "price_display": "$259,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-f0-1",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Sonrisa di Lac 63 – Fantastic new villa with two self-contained guest accommodations on the ground floor",
+    "price": 697500,
+    "price_display": "$697,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-sonrisa-di-lac-63",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Begonia 2",
+    "price": 400000,
+    "price_display": "$400,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-begonia-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Vista Royal Village 72",
+    "price": 158000,
+    "price_display": "$158,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-vista-royal-village-72",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Berilo 39",
+    "price": 625000,
+    "price_display": "$625,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-berilo-39",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Ammerzoden 10",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-ammerzoden-10",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire D1.5",
+    "price": 289000,
+    "price_display": "$289,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-d1-5",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire E2.2",
+    "price": 440000,
+    "price_display": "$440,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-e2-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Courtyard Village I-3",
+    "price": 249500,
+    "price_display": "$249,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-courtyard-village-i-3",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 32",
+    "price": 487000,
+    "price_display": "$487,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-32",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Aleksandrit 4-A-785",
+    "price": 189000,
+    "price_display": "$189,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-aleksandrit-4-a-785",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Courtyard Village I-4",
+    "price": 277000,
+    "price_display": "$277,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-courtyard-village-i-4",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 33",
+    "price": 478000,
+    "price_display": "$478,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-33",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Suikerpalm 23",
+    "price": 185000,
+    "price_display": "$185,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-23",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Kuarts 2",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-kuarts-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Crown Terrace 76",
+    "price": 1495000,
+    "price_display": "$1,495,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-crown-terrace-76",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Suikerpalm 66",
+    "price": 182160,
+    "price_display": "$182,160",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-66",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Suikerpalm 38 & Model 2",
+    "price": 478248,
+    "price_display": "$478,248",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-38-model-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 31 – Detached new-build home for sale in the residential area of Seru Blenchi, Bonaire",
+    "price": 611000,
+    "price_display": "$611,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-31",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 26",
+    "price": 491500,
+    "price_display": "$491,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-26",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Crown Shores 10 – Stylish villa with swimming pool and ocean views in Sabadeco Crown Shores",
+    "price": 1450000,
+    "price_display": "$1,450,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-crown-shores-10",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 37",
+    "price": 464000,
+    "price_display": "$464,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-37",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 38",
+    "price": 456000,
+    "price_display": "$456,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-38",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 61",
+    "price": 461000,
+    "price_display": "$461,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-61",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 62",
+    "price": 461000,
+    "price_display": "$461,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-62",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Elegancia del Caribe 9",
+    "price": 725000,
+    "price_display": "$725,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-gob-n-debrot-elegancia-del-caribe-9",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Den Stashi 13",
+    "price": 285000,
+    "price_display": "$285,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-den-stashi-13",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Seru Blenchi 27 – Vrijstaande nieuwbouwwoning te koop in de woonwijk Seru Blenchi, Bonaire",
+    "price": 769000,
+    "price_display": "$769,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-27",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 28 – Detached new-build home for sale in the residential area of Seru Blenchi, Bonaire",
+    "price": 659999,
+    "price_display": "$659,999",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-28",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Kaya Encarnacion B. Sint Jago 7",
+    "price": 445000,
+    "price_display": "$445,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-encarnacion-b-sint-jago-7",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire A1.4",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-a1-4",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Delfins Beach Resort Villa 8",
+    "price": 1350000,
+    "price_display": "$1,350,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-delfins-villas-8",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Courtyard Village J-3",
+    "price": 277000,
+    "price_display": "$277,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-courtyard-village-j-3",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Courtyard Village D-1",
+    "price": 249500,
+    "price_display": "$249,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-courtyard-village-d-1",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Seru Blenchi 30",
+    "price": 491500,
+    "price_display": "$491,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-seru-blenchi-30",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Regatta Residence 70",
+    "price": 460000,
+    "price_display": "$460,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-regatta-residence-70",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Balau 7",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-balau-7",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Belmar Apartment 14",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-e-e-g-boulevard-88-belmar-apartment-14",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire C2.2",
+    "price": 415000,
+    "price_display": "$415,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-c2-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Watervillas Bahia 14",
+    "price": 780000,
+    "price_display": "$780,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-watervillas-bahia-14",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Resort Bonaire C2.4",
+    "price": 380795,
+    "price_display": "$380,795",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-c2-4",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire C1.1",
+    "price": 271671,
+    "price_display": "$271,671",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-c1-1",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Kaya Aguila 8",
+    "price": 354000,
+    "price_display": "$354,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-kaya-aguila-8",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Hòfi Azaléa A-08",
+    "price": 570000,
+    "price_display": "$570,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-h-fi-azal-a-a-08",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hòfi Azaléa A-07",
+    "price": 480000,
+    "price_display": "$480,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-h-fi-azal-a-a-07",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Grand Windsock Villa 33",
+    "price": 620000,
+    "price_display": "$620,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-eeg-boulevard-3-grand-windsock-villa-33",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Building Lot at Vista Royal Village with Permit",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-vista-royal-village-lot-63-nikiboko-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Beach Apartment 5",
+    "price": 610000,
+    "price_display": "$610,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-beach-apartment-5",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Eeg Boulevard 30",
+    "price": 4300000,
+    "price_display": "$4,300,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-eeg-boulevard-30",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Terrace 18",
+    "price": 1590000,
+    "price_display": "$1,590,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-terrace-18",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Crown West 259",
+    "price": null,
+    "price_display": "Prijs op aanvraag",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-west-259",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Sabal Palm 71 Sabal Palm",
+    "price": 575000,
+    "price_display": "$575,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-sabal-palm-71-sabal-palm-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Grand Windsock Villa 15",
+    "price": 629000,
+    "price_display": "$629,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-grand-windsock-villa-15-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Grand Windsock Apartment A10",
+    "price": 555000,
+    "price_display": "$555,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-grand-windsock-apartment-a10-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious, Well-Located Waterfront Apartment",
+    "price": 385000,
+    "price_display": "$385,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-caribbean-court-b216-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Penthouse Steps Away from the Ocean",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-grandi-92-penthouse-6-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious Building Lot with Stunning Views",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-crown-west-268-sabadeco-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious Villa with Apartment and Ocean Views",
+    "price": 699000,
+    "price_display": "$699,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-lagoen-hill-69-lagoen-area-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Apartment Close to Town and Ocean",
+    "price": 450000,
+    "price_display": "$450,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-j-a-abraham-boulevard-28b-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Building Lot Adjacent to Green Zone",
+    "price": 549000,
+    "price_display": "$549,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-crown-west-249-sabadeco-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Two Homes Under One Roof",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-jupiter-16-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Great Investment - Walking Distance to the Ocean!",
+    "price": 299000,
+    "price_display": "$299,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-h-j-pop-2c-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Centrally located condo with ocean views!",
+    "price": 399000,
+    "price_display": "$399,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-grandi-89e-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Large Building Lot at Nature Villas Bonaire 8",
+    "price": 311960,
+    "price_display": "$311,960",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-nature-villas-bonaire-8-kunuku-area-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Spacious Home with Lots of Storage",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-beni-1-tera-cora-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Large Home in Desirable Neighborhood!",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-luna-7-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Affordable Apartment Steps Away from the Ocean",
+    "price": 260000,
+    "price_display": "$260,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-grandi-92-apt-4-kralendijk-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Newly Build Family Home in Quiet Neighborhood",
+    "price": 379000,
+    "price_display": "$379,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-mi-kas-lagun-37-lagoen-area-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Luxury Villa at Punt Vierkant",
+    "price": 2250000,
+    "price_display": "$2,250,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-punt-vierkant-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Great Investment! Bloozz Resort Apartment 1001",
+    "price": 285000,
+    "price_display": "$285,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-bloozz-resort-1001-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Grand Windsock Apartment B01",
+    "price": 489000,
+    "price_display": "$489,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-grand-windsock-apartment-b01-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Building lot at Suikerpalm",
+    "price": 228000,
+    "price_display": "$228,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-suikerpalm-27-belnem-bonaire-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "La Palma 6 - Spacious 937m² Freehold Building Plot",
+    "price": 250000,
+    "price_display": "$250,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1189-la-palma/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.12108498,
+    "lng": -68.27692782
+  },
+  {
+    "title": "Yacht Residence B05 - Modern 2BR Apartment Near Kralendijk Harbour",
+    "price": 492000,
+    "price_display": "$492,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11116/yacht-residence-apartments-b05-2-bed-2-bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence B03 - New 2BR Apartment Near Kralendijk Harbour",
+    "price": 429250,
+    "price_display": "$429,250",
+    "url": "https://caribbeanhomesbonaire.com/property/11115/yacht-residence-apartments-b03-2-bed-2-bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence B01 - Modern 2BR Apartment Near Harbour",
+    "price": 492000,
+    "price_display": "$492,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11114/yacht-residence-apartments-b01-2-bed-2-bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence B12 Duplex - New Luxury Apt Near Kralendijk Harbour",
+    "price": 650000,
+    "price_display": "$650,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11125/yacht-residence-apartments-b12-duplex",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence B10 - Modern 1BR Apartment near Kralendijk Harbour",
+    "price": 337500,
+    "price_display": "$337,500",
+    "url": "https://caribbeanhomesbonaire.com/property/11117/yacht-residence-apartments-b10-1-bed-1bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.162755508759055,
+    "lng": -68.28329873486898
+  },
+  {
+    "title": "Yacht Residence B11 - New 2BR Apartment Near Kralendijk Harbour",
+    "price": 525000,
+    "price_display": "$525,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11118/yacht-residence-apartments-b11-2-bed-2bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Suikerpalm Lot 40 - Spacious 736m² Freehold Building Plot",
+    "price": 198000,
+    "price_display": "$198,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/suikerpalm-40-spacious-building-lot-sale-inner-ring-suikerpa/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.119727368248373,
+    "lng": -68.27346974381383
+  },
+  {
+    "title": "Reef 3 - Luxury Oceanfront Villa - 5BR Infinity Pool",
+    "price": 4600000,
+    "price_display": "$4,600,000",
+    "url": "https://qvillas.com/en/for-sale/3reef",
+    "broker": "Q-Villas Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 5,
+    "baths": 5,
+    "type": "House",
+    "lat": 12.186361,
+    "lng": -68.296095
+  },
+  {
+    "title": "Noord SaliÃ±a - 14,520m² Freehold Land with Seru Largu Views",
+    "price": 1200000,
+    "price_display": "$1,200,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1180-kaya-caribe/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.17996814,
+    "lng": -68.27133383
+  },
+  {
+    "title": "Yacht Residence Penthouse B15 - Luxury 2BR near Harbour",
+    "price": 750000,
+    "price_display": "$750,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11123/yacht-residence-apartments-penthouse-b15",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence Penthouse B14 - Luxury 2BR Near Harbour",
+    "price": 552000,
+    "price_display": "$552,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11124/yacht-residence-apartments-penthouse-b14",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.162761792050157,
+    "lng": -68.28334614162902
+  },
+  {
+    "title": "Yacht Residence B04 - 1BR Apartment Near Kralendijk Harbour",
+    "price": 318750,
+    "price_display": "$318,750",
+    "url": "https://caribbeanhomesbonaire.com/property/11121/yacht-residence-apartments-b04",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Yacht Residence B08 - Modern 1BR Apartment Near Harbour",
+    "price": 337500,
+    "price_display": "$337,500",
+    "url": "https://caribbeanhomesbonaire.com/property/11122/yacht-residence-apartments-b08-1-bed-1bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.162755508759055,
+    "lng": -68.28329873486898
+  },
+  {
+    "title": "Terramar 7 - Seafront Condo with Caribbean Views in Kralendijk",
+    "price": 695100,
+    "price_display": "$695,100",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/terramar-7/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.150859869562549,
+    "lng": -68.27729101380177
+  },
+  {
+    "title": "Sorobon Bay Hotel Apt 3 â€“ Furnished 1BR Resort Unit, Lac Bay",
+    "price": null,
+    "price_display": null,
+    "url": "https://qvillas.com/en/for-sale/sorobon-bay-hotel-apartment-3",
+    "broker": "Q-Villas Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.09527534,
+    "lng": -68.24401643
+  },
+  {
+    "title": "Regatta Residence #27 - Modern 2BR Apartment in Tera Kora",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11020/regatta-residence-apt-27",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.14131884187751,
+    "lng": -68.26557190885822
+  },
+  {
+    "title": "Regatta Residence 108 - New 2BR Apartment in Tera Kora",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11021/regatta-residence-apt-108",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.14131884187751,
+    "lng": -68.26557190885822
+  },
+  {
+    "title": "Den Laman Penthouse 'Shark' - Oceanfront 2BR in Hato",
+    "price": 680000,
+    "price_display": "$680,000",
+    "url": "https://bonairerealestategroup.com/property/den-laman-shark-apartment/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.1677717,
+    "lng": -68.2868443
+  },
+  {
+    "title": "Windhoek Boutique Resort Belnem - 14BR Resort, Pool & Rental Income",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/windhoek-boutique-resort-bonaire/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 14,
+    "baths": 12,
+    "type": "Commercial",
+    "lat": 12.11554076921619,
+    "lng": -68.29125812954479
+  },
+  {
+    "title": "Bellafonte 105 - Oceanfront 2BR Resort Apartment, Kralendijk",
+    "price": 1100000,
+    "price_display": "$1,100,000",
+    "url": "https://bonairerealestategroup.com/property/bellafonte-105/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.1288056,
+    "lng": -68.2858111
+  },
+  {
+    "title": "Kaya Galeen 37 Hato - Turnkey Duplex, $3,600/Mo Cashflow",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://bonairerealestategroup.com/property/kaya-galeen-37-duplex/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 4,
+    "type": "House",
+    "lat": 12.1765046,
+    "lng": -68.2867085
+  },
+  {
+    "title": "Crown Court 4 - Freehold Land Plot in Sabadeco - 1,813m²",
+    "price": 350000,
+    "price_display": "$350,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1171-crown-court/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.1961993,
+    "lng": -68.3003127
+  },
+  {
+    "title": "Yacht Residence B09 - Modern 2BR Apt Near Harbour",
+    "price": 454500,
+    "price_display": "$454,500",
+    "url": "https://caribbeanhomesbonaire.com/property/11107/yacht-residence-apartments-b09-2-bed-2bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.16273852737989,
+    "lng": -68.28342351009269
+  },
+  {
+    "title": "Kaya Dorado - Sea View Lot with Klein Bonaire Views, Permit Included",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonairerealestategroup.com/property/kaya-dorado-lot/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.1884108,
+    "lng": -68.278778
+  },
+  {
+    "title": " Sabal Palm, Bonaire, Bonaire",
+    "price": 575000,
+    "price_display": "$575,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/sabal-palm/sabal-palm-71/900171021-1",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.12185931,
+    "lng": -68.27737079
+  },
+  {
+    "title": "Villa Te Amo - Oceanfront 5BR with Infinity Pool & Private Jetty",
+    "price": 3295000,
+    "price_display": "$3,295,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/exclusive-oceanfront-villa-with-private-beach-infinity-pool",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 5,
+    "baths": 5,
+    "type": "House",
+    "lat": 12.181278988066197,
+    "lng": -68.29357082408796
+  },
+  {
+    "title": "Amboina 50 - Fixer-Upper Corner House with 4BR in Amboina",
+    "price": 225000,
+    "price_display": "$225,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1160-amboina/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.15450876,
+    "lng": -68.25925869
+  },
+  {
+    "title": "Kaya Niagara 4 - Charming Bungalow in Playa, Near the Sea",
+    "price": 350000,
+    "price_display": "$350,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11024/kaya-niagara-4",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "House",
+    "lat": 12.15850487594848,
+    "lng": -68.27854819397074
+  },
+  {
+    "title": "Kaminda Gurubu 12 - Charming 2BR Home nr Rancho Mal Macho",
+    "price": 310000,
+    "price_display": "$310,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1159-kaminda-gurubu/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.18225737,
+    "lng": -68.2680648
+  },
+  {
+    "title": "Yacht Residence B02 - Modern 1BR Apartment Near Harbour",
+    "price": 318750,
+    "price_display": "$318,750",
+    "url": "https://caribbeanhomesbonaire.com/property/11023/yacht-residence-apartments-b02-1-bed-1-bath",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.162829673615436,
+    "lng": -68.28329540531948
+  },
+  {
+    "title": "Kaya Statius van Eps 13 - Family Home with 2 Rental Apts in Belnem",
+    "price": 575000,
+    "price_display": "$575,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/kaya-statius-van-eps-13/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 6,
+    "baths": 4,
+    "type": "House",
+    "lat": 12.124890077494172,
+    "lng": -68.284790457437
+  },
+  {
+    "title": "Regatta Residence - New 2BR Apartment in Tera Kora",
+    "price": 315000,
+    "price_display": "$315,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1155-kaya-monseigneur-nieuwindt/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.1401641,
+    "lng": -68.264443
+  },
+  {
+    "title": "Sabal Palm 40 - Investment Villa with 3 Apts, Pool & Garden",
+    "price": 925000,
+    "price_display": "$925,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/villa-with-3-apartments-rental-investment-private-pool-tropical-garden",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 5,
+    "baths": 3,
+    "type": "House",
+    "lat": 12.1239287881189,
+    "lng": -68.2801048240887
+  },
+  {
+    "title": "Building Lot Within Walking Distance To The Ocean",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/vacant-land/for-sale/sabadeco/crown-ridge-42/900171001-845",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.18910814,
+    "lng": -68.29531143
+  },
+  {
+    "title": "Chachacha Apt 5 - Oceanfront 2BR on Kralendijk Boulevard",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://qvillas.com/en/for-sale/chachacha-apartment-5",
+    "broker": "Q-Villas Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.14615068,
+    "lng": -68.27609649
+  },
+  {
+    "title": "Tras Montana Land - 3000m² with Building Permit & Hill Views",
+    "price": 220000,
+    "price_display": "$220,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11015/tras-montana-2-g-89",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.21354933840498,
+    "lng": -68.28174260314326
+  },
+  {
+    "title": "Kaya Mars 8 - 3BR Home with Pool, Steps from Beach",
+    "price": 685000,
+    "price_display": "$685,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1142-kaya-mars/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.12623862,
+    "lng": -68.2853031
+  },
+  {
+    "title": "Large Family Home - Fully Renovated",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/santa-barbara/kaya-kuarts-4/900171011-99",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 3,
+    "type": "House",
+    "lat": 12.1884108,
+    "lng": -68.278778
+  },
+  {
+    "title": "Large Villa Consisting of in Total 3 Units!",
+    "price": 615000,
+    "price_display": "€615,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/nawati/900171015-59",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 5,
+    "baths": 3,
+    "type": "House",
+    "lat": 12.18389922,
+    "lng": -68.27792853
+  },
+  {
+    "title": "Crown Shores 61 - Freehold Plot 2,871m² with Building Permit",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/spacious-lot-including-building-permit-sabadeco-crown-shores-61",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.201083727722603,
+    "lng": -68.30231015164799
+  },
+  {
+    "title": "32 Julio A. Abraham Blvd - Renovated Urban Villa in Playa",
+    "price": 740000,
+    "price_display": "$740,000",
+    "url": "https://bonairerealestategroup.com/property/32-julio-a-abraham-boulevard/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1446206,
+    "lng": -68.2753189
+  },
+  {
+    "title": "Crown Keys 7 - Oceanfront Villa with Pool in Sabadeco",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/sabadeco-crown-keys-7-ocean-front-villa",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 5,
+    "type": "House",
+    "lat": 12.190771888057482,
+    "lng": -68.29606002408771
+  },
+  {
+    "title": "Kaya Eidenhoven - 4BR Home + Rental Apartment in Hato",
+    "price": 475000,
+    "price_display": "$475,000",
+    "url": "https://bonairerealestategroup.com/property/kaya-eidenhoven/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1756658,
+    "lng": -68.2877211
+  },
+  {
+    "title": "Famile Home in Sabadeco",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/sabadeco/crown-park-2/900171001-842",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1970173,
+    "lng": -68.29823175
+  },
+  {
+    "title": "Kurason Nikiboko Type 2 - New 2BR Apartment with Pool",
+    "price": 380000,
+    "price_display": "€380,000",
+    "url": "https://kwbonaire.com/listings/di-kurason-pa-bo-apartments-2",
+    "broker": "Keller Williams Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "Kurason Nikiboko - New 2BR Apartment with Pool & Solar",
+    "price": 410000,
+    "price_display": "€410,000",
+    "url": "https://kwbonaire.com/listings/di-kurason-pa-bo-apartments",
+    "broker": "Keller Williams Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "Rancho San Minguel - Off-Grid Eco-Resort Kunuku, 3 Units",
+    "price": 525000,
+    "price_display": "$525,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1137-bara-di-karta/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 6,
+    "baths": 4,
+    "type": "House",
+    "lat": 12.15480467,
+    "lng": -68.22359688
+  },
+  {
+    "title": "Resort Bonaire B2.2 - Furnished Penthouse with Terrace",
+    "price": 385000,
+    "price_display": "$385,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1136-eeg-boulevard/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.11961512,
+    "lng": -68.29004965
+  },
+  {
+    "title": "Sabadeco Oceanfront Reef Villas - 2x 3BR Investment with Pool",
+    "price": 3300000,
+    "price_display": "$3,300,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/oceanfront-reef-villa-sabadeco-vacation-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 6,
+    "baths": 6,
+    "type": "House",
+    "lat": 12.186879619556587,
+    "lng": -68.29322768910215
+  },
+  {
+    "title": "Den Laman Blue Marlin - 2BR Oceanfront Apartment in Hato",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-apartment-2-bedroom-oceanfront-beach-blue-marlin",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Suikerpalm Lot 87 â€“ 792m² Freehold Plot Near Sorobon",
+    "price": 259000,
+    "price_display": "$259,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/spacious-building-lot-suikerpalm-87-popular-area",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "Den Laman Parrot Fish - Oceanfront 1BR Apartment in Hato",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-apartment-oceanfront-parrot-fish",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Den Laman Flounder - 1BR Ocean View Apartment in Hato",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-ocean-view-apartment-flounder",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Den Laman Oceanfront 1BR - Yellow Tail Snapper, Hato",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-apartment-oceanfront-yellow-tail-snapper",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "HÃ²fi AzalÃ©a A-05 - New 3BR Apartment with Pool in Hato",
+    "price": 570000,
+    "price_display": "$570,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/hofi-azalea-apartment-a5-spacious-newly-built-apartment-3-be/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.171551067230853,
+    "lng": -68.28666597208759
+  },
+  {
+    "title": "HÃ²fi AzalÃ©a A-01 - New 3BR Apartment in Hato, Vacation Rental Ready",
+    "price": 550000,
+    "price_display": "$550,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/hofi-azalea-01-spacious-newly-built-apartment-3-bedrooms-hof/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.171551067230853,
+    "lng": -68.28666597208759
+  },
+  {
+    "title": "HÃ²fi AzalÃ©a A-02 - New 2BR Apartment with Pool in Hato",
+    "price": 460000,
+    "price_display": "$460,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/hofi-azalea-02-spacious-newly-built-apartment-2-bedrooms-hof/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.171551067230853,
+    "lng": -68.28666597208759
+  },
+  {
+    "title": "Belnem House 21 - Turnkey Resort Apartment with Pool",
+    "price": 425000,
+    "price_display": "$425,000",
+    "url": "https://bonairerealestategroup.com/property/belnem-house-21/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.1253284,
+    "lng": -68.2860066
+  },
+  {
+    "title": "Kaya Arihara 15 - Two-Level Home with Pool in Yellow Garden",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonairerealestategroup.com/property/kaya-arihara-15/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1746866,
+    "lng": -68.2757969
+  },
+  {
+    "title": "Apartment Building with 3 rental units",
+    "price": 1750000,
+    "price_display": "$1,750,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/whole-apartment-building/for-sale/sabadeco/caribbean-club-green-tower/900171001-841",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Unknown",
+    "lat": 12.20203931,
+    "lng": -68.30927721
+  },
+  {
+    "title": "Infinity Belnem - Seaview 2BR Corner Apt with Rental Permit",
+    "price": 495000,
+    "price_display": "$495,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/infinity-apartment-75f-spacious-2-bedroom-apartment-seaview/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.122361602605961,
+    "lng": -68.28898447250037
+  },
+  {
+    "title": "Oceanfront Reef Villa Sabadeco - 3BR Pool & Direct Sea Access",
+    "price": 3300000,
+    "price_display": "$3,300,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/oceanfront-reef-villa-sabadeco",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 3,
+    "type": "House",
+    "lat": 12.186879619556587,
+    "lng": -68.29322768910215
+  },
+  {
+    "title": "Kaya Krisolito 24 - Modern 3BR Villa with Pool in Santa Barbara",
+    "price": 749000,
+    "price_display": "$749,000",
+    "url": "https://harbourtownbonaire.com/en/properties/1127-kaya-krisolito/",
+    "broker": "Harbourtown Real Estate",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1858834,
+    "lng": -68.28154292
+  },
+  {
+    "title": "Belmar 14 - Seafront 1BR Apartment with Sea Views in Belnem",
+    "price": 695000,
+    "price_display": "$695,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/belmar-apartment-14/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.120798934515662,
+    "lng": -68.29083993063495
+  },
+  {
+    "title": "Kralendijk Leasehold Land + ECO Resort Permits - 6480m²",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://kwbonaire.com/listings/grond-te-koop",
+    "broker": "Keller Williams Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "BV with ECOresort Permits - 6,480m² Leasehold Kralendijk",
+    "price": 850000,
+    "price_display": "$850,000",
+    "url": "https://kwbonaire.com/listings/bv-te-koop",
+    "broker": "Keller Williams Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Commercial",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "Den Laman 'Black Durgan' - Sea Views & Dive Pier in Hato",
+    "price": 450000,
+    "price_display": "$450,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-apartment-studio-black-durgan",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Pos Di KaraÃ±a 14 - Dual House Rental Investment in Belnem",
+    "price": 498000,
+    "price_display": "$498,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/pos-di-karana-14-2-houses-one-plot-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.11629719925788,
+    "lng": -68.28832573039568
+  },
+  {
+    "title": "Kaya Berilo 16 - Luxury 3BR Villa with Pool in Santa Barbara",
+    "price": 879000,
+    "price_display": "$879,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/kaya-berilo-16-luxury-villa-with-private-pool",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.185071388062639,
+    "lng": -68.28206162406539
+  },
+  {
+    "title": "TASCA Building - 6-Unit Apartment Complex in Playa",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/tasca-building-apartments",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 12,
+    "baths": 12,
+    "type": "Commercial",
+    "lat": 12.147616691400232,
+    "lng": -68.27375718518634
+  },
+  {
+    "title": "Punt Vierkant Oceanfront Villa - 4BR Piet Boon Design",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/oceanfront-villa-good-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 3,
+    "type": "House",
+    "lat": 12.119880686892962,
+    "lng": -68.28912097048936
+  },
+  {
+    "title": "Den Laman Parrot Fish - 1BR Sea View Apartment in Hato",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-apartment-sea-view-parrot-fish",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Terramar 10 - Oceanfront 3BR Apartment in Kralendijk Centre",
+    "price": 855000,
+    "price_display": "$855,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/3-bedroom-oceanfront-apartment-terramar-10",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.151513835627854,
+    "lng": -68.27695138479284
+  },
+  {
+    "title": "Suikerpalm Lot 87 - Freehold 792m² Building Plot Near Beach",
+    "price": 259000,
+    "price_display": "$259,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/spacious-building-lot-suikerpalm-87",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "title": "Den Laman Studio 'Rough Scad' - Oceanfront Living in Hato",
+    "price": 485000,
+    "price_display": "$485,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-studio-apartment-rough-scad",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Den Laman Wahoo - 2BR Sea View Condo with Private Beach",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-apartment-2-bedrooms-2-bathrooms-side-ocean-view-wahoo",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Den Laman Blue Marlin - Oceanfront 2BR/2BA Apartment in Hato",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-apartment-2-bedrooms-2-bathrooms-oceanfront-blue-marlin",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Resort Bonaire Penthouse F2.4 - 3BR Ocean View in Belnem",
+    "price": 398000,
+    "price_display": "$398,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/resort-bonaire-penthouse-f24-rental-investment",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.11962763627661,
+    "lng": -68.29024098475344
+  },
+  {
+    "title": "Den Laman Flounder - 1BR Apartment with Sea Views in Hato",
+    "price": 595000,
+    "price_display": "$595,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-apartment-flounder",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Crown Shores Lot 61 - Spacious 2,871m² Freehold Plot Sabadeco",
+    "price": 449000,
+    "price_display": "$449,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/spacious-building-lot-sabadeco-crown-shores-61",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.201083727722603,
+    "lng": -68.30231015164799
+  },
+  {
+    "title": "Punt Vierkant 48 Vista Alegre - Spacious 7BR Villa with Pool",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/punt-vierkant-48-spacious-villa",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 7,
+    "baths": 7,
+    "type": "House",
+    "lat": 12.115844088126437,
+    "lng": -68.29369012493778
+  },
+  {
+    "title": "Boulevard Apartment 7 - Ocean View in Kralendijk Centre",
+    "price": null,
+    "price_display": null,
+    "url": "https://www.bonairerealty.com/en/real-estate/apartment-7-kaya-jne-craane",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.151254235632823,
+    "lng": -68.27604634345518
+  },
+  {
+    "title": "Den Laman Yellow Tail Snapper - 1BR Oceanfront Apt, Hato",
+    "price": 945000,
+    "price_display": "$945,000",
+    "url": "https://www.bonairerealty.com/en/real-estate/den-laman-1-bedroom-apartment-sea-view-yellow-tail-snapper",
+    "broker": "Bonaire Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": null,
+    "type": "Apartment",
+    "lat": 12.167771688078615,
+    "lng": -68.28683922408804
+  },
+  {
+    "title": "Sur Salinja - 3BR Home with Private Pool & Solar",
+    "price": 575000,
+    "price_display": "$575,000",
+    "url": "https://bonairerealestategroup.com/property/sur-salinja/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.1632131,
+    "lng": -68.2782698
+  },
+  {
+    "title": "Sabadeco Luxury Villa - 4BR, Pool & Ocean Views",
+    "price": 1395000,
+    "price_display": "$1,395,000",
+    "url": "https://bonairerealestategroup.com/property/sabadeco-villa/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": null,
+    "type": "House",
+    "lat": 12.1982151,
+    "lng": -68.2996453
+  },
+  {
+    "title": "Suikerpalm 97 - Freehold 713m² Lot Near Park, Phase 2",
+    "price": 799000,
+    "price_display": "$799,000",
+    "url": "https://bonairerealestategroup.com/property/suikerpalm-97-2/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.1231135,
+    "lng": -68.2795233
+  },
+  {
+    "title": "Kaya Saturnus 41A - Furnished Townhome Near Resort Bonaire",
+    "price": 410000,
+    "price_display": "$410,000",
+    "url": "https://bonairerealestategroup.com/property/kaya-saturnus-41a/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": null,
+    "type": "House",
+    "lat": 12.1234482,
+    "lng": -68.2873826
+  },
+  {
+    "title": "Crown Shores 62 - Luxury 13BR Estate with Pool & Ocean Views",
+    "price": 1950000,
+    "price_display": "$1,950,000",
+    "url": "https://bonairerealestategroup.com/property/crown-shore-62/",
+    "broker": "Bonaire Real Estate Group",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 13,
+    "baths": 9,
+    "type": "House",
+    "lat": 12.1982151,
+    "lng": -68.2996453
+  },
+  {
+    "title": "Reef 4 - Oceanfront Building Lot, Short-Term Rental Zoned",
+    "price": 2300000,
+    "price_display": "$2,300,000",
+    "url": "https://caribbeanhomesbonaire.com/property/11000/reef-4",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.185986,
+    "lng": -68.29595
+  },
+  {
+    "title": "El Pueblo 2 - Sea View Villa with Pool & Solar in El Pueblo",
+    "price": 1475000,
+    "price_display": "$1,475,000",
+    "url": "https://www.sunbeltbonaire.com/en/properties/buy-real-estate/el-pueblo-2/",
+    "broker": "Sunbelt Realty",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.202407527995987,
+    "lng": -68.31005191752699
+  },
+  {
+    "title": "Pleinchi Blanku Studio - Furnished with Pool in Kralendijk",
+    "price": null,
+    "price_display": null,
+    "url": "https://caribbeanhomesbonaire.com/property/8006/lr-res-pleinchi-blanku",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.14125474473416,
+    "lng": -68.27538349156922
+  },
+  {
+    "title": "Ocean View Family Home",
+    "price": 579000,
+    "price_display": "$579,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/santa-barbara/kaya-dorado-17a/900171001-835",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.19087152,
+    "lng": -68.28192562
+  },
+  {
+    "title": "Multi Functional Property in the City-Center",
+    "price": 1500000,
+    "price_display": "$1,500,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/building/for-sale/kralendijk/kaya-grandi-15/900171001-825",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Commercial",
+    "lat": 12.151156,
+    "lng": -68.276955
+  },
+  {
+    "title": "Nature Villas Bonaire 2",
+    "price": 227542,
+    "price_display": "$227,542",
+    "url": "https://www.bonairehomes.com/en-cc/listings/land/for-sale/kunuku-area/nature-villas-bonaire-2/900171001-670",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.17479,
+    "lng": -68.245437
+  },
+  {
+    "title": "Spacious Two-Unit Property with Pool",
+    "price": 590000,
+    "price_display": "$590,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/duplex/for-sale/nikiboko/kaya-bongo-2/900171015-54",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.14375024,
+    "lng": -68.25951257
+  },
+  {
+    "title": "Rental Income Property",
+    "price": 675000,
+    "price_display": "$675,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/house/for-sale/nikiboko/kaya-triton-28a-b-c/900171001-720",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 6,
+    "baths": 5,
+    "type": "House",
+    "lat": 12.146027,
+    "lng": -68.266581
+  },
+  {
+    "title": "Spacious Lot in the Middle of Nature",
+    "price": 420000,
+    "price_display": "$420,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/land/for-sale/kunuku-area/luga-aleha-s6/900171011-49",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.195073,
+    "lng": -68.235226
+  },
+  {
+    "title": "Living off the grid in the middle of nature",
+    "price": 318390,
+    "price_display": "$318,390",
+    "url": "https://www.bonairehomes.com/en-cc/listings/land/for-sale/kunuku-area/nature-villas-bonaire-10/900171001-716",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": null,
+    "baths": null,
+    "type": "Land",
+    "lat": 12.20189,
+    "lng": -68.262382
+  },
+  {
+    "title": "Oceanfront Condo with Unobstructed Views!",
+    "price": 950000,
+    "price_display": "$950,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/condo/apartment/for-sale/hato/kaya-gobernador-nicolaas-debrot-155-4/900171001-818",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.18105742,
+    "lng": -68.29348842
+  },
+  {
+    "title": "Grand Windsock Penthouse B13",
+    "price": 565000,
+    "price_display": "$565,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/condo/apartment/for-sale/belnem/grand-windsock-apartment-b13/900171015-23",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.128065,
+    "lng": -68.285372
+  },
+  {
+    "title": "Spacious Home with Great Views and Rental Options",
+    "price": 719000,
+    "price_display": "$719,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/santa-barbara/kaya-peridoto-24/900171011-95",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 5,
+    "baths": 4,
+    "type": "House",
+    "lat": 12.18807308,
+    "lng": -68.280084
+  },
+  {
+    "title": "Spacious Villa with Unobstructed Views",
+    "price": 1375000,
+    "price_display": "$1,375,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/sabadeco/crown-terrace-101/900171001-779",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 4,
+    "baths": 5,
+    "type": "House",
+    "lat": 12.20004754,
+    "lng": -68.2952057
+  },
+  {
+    "title": "Newly Built Villa with Unobstructed Ocean Views",
+    "price": 1475000,
+    "price_display": "$1,475,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/villa/for-sale/sabadeco/el-pueblo-2/900171001-814",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 3,
+    "baths": 2,
+    "type": "House",
+    "lat": 12.202407527995987,
+    "lng": -68.31005191752699
+  },
+  {
+    "title": "Apartment Steps Away from Cha Cha Cha Beach!",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/condo/apartment/for-sale/kralendijk/ja-abraham-boulevard-28a/900171015-51",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 2,
+    "baths": 2,
+    "type": "Apartment",
+    "lat": 12.14591511,
+    "lng": -68.27581496
+  },
+  {
+    "title": "Cozy 1 bedroom Resort Condo",
+    "price": 249000,
+    "price_display": "$249,000",
+    "url": "https://www.bonairehomes.com/en-cc/listings/condo/apartment/for-sale/belnem/resort-bonaire-apt-c09/900171011-84",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "casadushi",
+    "sold": false,
+    "beds": 1,
+    "baths": 1,
+    "type": "Apartment",
+    "lat": 12.11925463,
+    "lng": -68.28981802
+  }
+]
