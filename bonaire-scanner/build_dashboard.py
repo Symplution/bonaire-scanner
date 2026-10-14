@@ -237,8 +237,20 @@ html = f"""<!DOCTYPE html>
 <div class="segments" id="segments"></div>
 <div class="results-count" id="results-count"></div>
 <div class="content" id="content"></div>
-<div class="last-updated">Laatst bijgewerkt: {last_updated} · <span style="color:#10b981">■</span> = uniek via Casa Dushi</div>
+<div class="last-updated">Laatst bijgewerkt: {last_updated} · <span style="color:#10b981">■</span> = uniek via Casa Dushi<br>
+<button id="refresh-btn" onclick="refreshNow()" style="margin-top:10px;padding:8px 16px;border:1px solid #cbd5e0;border-radius:8px;background:#fff;cursor:pointer;font-size:0.85rem">🔄 Nu verversen</button>
+<div id="refresh-msg" style="margin-top:6px"></div></div>
 <script>
+async function refreshNow(){{
+  const b=document.getElementById('refresh-btn'),m=document.getElementById('refresh-msg');
+  b.disabled=true;m.textContent='Bezig met starten…';
+  try{{
+    const r=await fetch('/api/refresh',{{method:'POST'}});
+    const j=await r.json();
+    m.textContent=j.message||'Klaar';
+  }}catch(e){{m.textContent='Mislukt, probeer later opnieuw.';}}
+  setTimeout(()=>{{b.disabled=false}},30000);
+}}
 const LISTINGS={listings_js};
 const COLORS={json.dumps(BROKER_COLORS)};
 const SEGMENTS=[
