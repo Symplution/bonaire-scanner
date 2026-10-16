@@ -1,5 +1,14 @@
 [
   {
+    "title": "favorite Apartment • Bonaire Bloozz Apartements - 2005 square_foot 55 m²",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-apartements-2005",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Hato Hòfi Azaléa A-06 bed 2 bathtub 3 square_foot 109 m²",
     "price": 480000,
     "price_display": "$480,000",
@@ -144,7 +153,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Sabadeco Kaya Jupiter 5 bed 2 bathtub 2 square_foot 80 m²",
+    "title": "favorite Apartment • Belnem Kaya Jupiter 5 bed 2 bathtub 2 square_foot 80 m²",
     "price": 375000,
     "price_display": "$375,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-jupiter-5",
@@ -207,7 +216,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Belnem Bellevue 3 bed 2 bathtub 2 square_foot 120 m²",
+    "title": "Bellevue 3",
     "price": 1015000,
     "price_display": "$1,015,000",
     "url": "https://bonaire-brokers.com/properties/sunbelt-realty-bellevue-3",
@@ -5083,6 +5092,15 @@
     "broker": "Q-Villas Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Courtyard Village A-2",
+    "price": 349500,
+    "price_display": "$349,500",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-courtyard-village-a-2",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Bridanda Boutique Resort studio 4",
