@@ -1,5 +1,32 @@
 [
   {
+    "title": "favorite Apartment • Kralendijk Oceanfront Apartment Playa Lechi Residence # 2 bed 2 bathtub 2 square_foot 1,611 m²",
+    "price": 785000,
+    "price_display": "$785,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-realty-boulevard-gobernador-nicolaas-debrot-kralendijk-centre",
+    "broker": "Bonaire Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Apartment • Bonaire Port Bonaire Penthouse B303 bed 4 bathtub 2.5 square_foot 135 m²",
+    "price": 795000,
+    "price_display": "$795,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-international-1-port-bonaire-b303",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Apartment • Bonaire Bloozz Resort Bonaire - Studio 2005 square_foot 55 m²",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-resort-bonaire-studio-2005",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Bonaire Bloozz Apartements - 2005 square_foot 55 m²",
     "price": 325000,
     "price_display": "$325,000",
@@ -189,7 +216,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Kralendijk Yacht Residence Apartment - 2 bedrooms square_foot 120 m²",
+    "title": "Yacht Residence Apartment - 2 bedrooms",
     "price": 500000,
     "price_display": "$500,000",
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartment-2-bedrooms",
@@ -198,7 +225,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Kralendijk Hausmann Follies 6 bed 2 bathtub 2 square_foot 135 m²",
+    "title": "Hausmann Follies 6",
     "price": 685000,
     "price_display": "$685,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-hausmann-follies-6",
@@ -207,7 +234,7 @@
     "sold": false
   },
   {
-    "title": "favorite House • Noord Salina Kaya Caribe 29 bed 4 bathtub 2 square_foot 145 m²",
+    "title": "Kaya Caribe 29",
     "price": 450000,
     "price_display": "$450,000",
     "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-caribe-29",
@@ -960,7 +987,7 @@
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-pure-36-19",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Crown Terrace 33",
@@ -1531,8 +1558,8 @@
   },
   {
     "title": "Terramar 8 Penthouse",
-    "price": 1100000,
-    "price_display": "$1,100,000",
+    "price": 995000,
+    "price_display": "$995,000",
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-terramar-8-penthouse",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
@@ -4956,7 +4983,7 @@
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-apartment-complex-at-kaya-grandi",
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": true
+    "sold": false
   },
   {
     "title": "Sand Dollar One Bedroom Oceanfront Apartment",
