@@ -918,15 +918,6 @@
     "sold": true
   },
   {
-    "title": "Kaya America 8",
-    "price": 595000,
-    "price_display": "$595,000",
-    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-kaya-america-8",
-    "broker": "Caribbean Homes Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": true
-  },
-  {
     "title": "Yacht Residence Apartment B07",
     "price": 525000,
     "price_display": "$525,000",
@@ -3645,13 +3636,13 @@
     "sold": false
   },
   {
-    "title": "Eco Lodge Bonaire – Sustainable Villas with Rental Flexibility",
-    "price": 285000,
-    "price_display": "$285,000",
+    "title": "Eco Lodge Villa 4 – Off-Grid Villa on 402 m² Freehold Plot",
+    "price": 335000,
+    "price_display": "$335,000",
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130",
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Modern island living with views, pool & rental potential",
