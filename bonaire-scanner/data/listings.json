@@ -1,5 +1,68 @@
 [
   {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 11 – Off-Grid Villa on 398 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 330000,
+    "price_display": "$330,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-f6413e",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 3 – Off-Grid Villa on 331 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-2e29a2",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 5 – Off-Grid Villa on 689 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 440000,
+    "price_display": "$440,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-8459da",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 10 – Off-Grid Villa on 545 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-2f6570",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 9 – Off-Grid Villa on 420 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 335000,
+    "price_display": "$335,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-b25401",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 8 – Off-Grid Villa on 330 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 285000,
+    "price_display": "$285,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-07c723",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 1 – Off-Grid Villa on 465 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-96f021",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Kralendijk Oceanfront Apartment Playa Lechi Residence # 2 bed 2 bathtub 2 square_foot 1,611 m²",
     "price": 785000,
     "price_display": "$785,000",
@@ -153,7 +216,7 @@
     "sold": false
   },
   {
-    "title": "favorite Lot • Bonaire Plot with building plans – Bonaire",
+    "title": "Plot with building plans – Bonaire",
     "price": null,
     "price_display": null,
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-plot-with-building-plans-bonaire",
@@ -162,7 +225,7 @@
     "sold": false
   },
   {
-    "title": "favorite Commercial • Bonaire Hospitality Investment on Bonaire",
+    "title": "Hospitality Investment on Bonaire",
     "price": null,
     "price_display": null,
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-hospitality-investment-on-bonaire",
@@ -171,7 +234,7 @@
     "sold": false
   },
   {
-    "title": "favorite House • Republiek Kibra’i Montaña – New Construction square_foot 249 m²",
+    "title": "Kibra’i Montaña – New Construction",
     "price": 1050000,
     "price_display": "$1,050,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kibra-i-monta-a-new-construction",
@@ -180,7 +243,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Belnem Kaya Jupiter 5 bed 2 bathtub 2 square_foot 80 m²",
+    "title": "Kaya Jupiter 5",
     "price": 375000,
     "price_display": "$375,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-jupiter-5",
@@ -189,7 +252,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Nikiboko Kaya Jiwiri 1 bed 5 bathtub 3",
+    "title": "Kaya Jiwiri 1",
     "price": 465000,
     "price_display": "$465,000",
     "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-jiwiri-1",
@@ -198,7 +261,7 @@
     "sold": false
   },
   {
-    "title": "favorite Lot • Seru Blenchi Pure36 lot 5",
+    "title": "Pure36 lot 5",
     "price": 220000,
     "price_display": "$220,000",
     "url": "https://bonaire-brokers.com/properties/sunbelt-realty-pure36-lot-5",
@@ -207,7 +270,7 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Kralendijk Yacht Residence Apartment - 1 bedroom square_foot 42 m²",
+    "title": "Yacht Residence Apartment - 1 bedroom",
     "price": 230000,
     "price_display": "$230,000",
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-yacht-residence-apartment-1-bedroom",
@@ -663,7 +726,7 @@
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-tras-monta-a-121",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Kaya Soeur Bartola 16",
