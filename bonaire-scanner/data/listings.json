@@ -1,5 +1,23 @@
 [
   {
+    "title": "favorite Villa • Sabadeco Crowns A villa built around privacy, space and the Caribbean horizon bed 4 bathtub 2.5 square_foot 753 m²",
+    "price": 1750000,
+    "price_display": "$1,750,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-sabadeco-crown-terrace-26",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kunuku Area Eco Lodge Villa 6 – Off-Grid Villa on 382 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
+    "price": 360000,
+    "price_display": "$360,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-0139d0",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Villa • Kunuku Area Eco Lodge Villa 11 – Off-Grid Villa on 398 m² Freehold Plot bed 2 bathtub 2 square_foot 111 m²",
     "price": 330000,
     "price_display": "$330,000",
@@ -198,7 +216,25 @@
     "sold": false
   },
   {
-    "title": "favorite Lot • Lagoen Large Building Lot with Great Views!",
+    "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-b67700",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Eco Lodge Villa 2 – Off-Grid Villa on 317 m² Freehold Plot",
+    "price": 295000,
+    "price_display": "$295,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-washikemba-130-70ef38",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": true
+  },
+  {
+    "title": "Large Building Lot with Great Views!",
     "price": 247500,
     "price_display": "$247,500",
     "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-lagoen-hill-lot-1177-lagoen-area-bonaire",
@@ -207,7 +243,7 @@
     "sold": false
   },
   {
-    "title": "favorite Lot • Bonaire Recreational lots on Bonaire",
+    "title": "Recreational lots on Bonaire",
     "price": null,
     "price_display": null,
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-recreational-lots-on-bonaire",
@@ -5086,8 +5122,8 @@
   },
   {
     "title": "Spacious Home with Great Views and Rental Options",
-    "price": 719000,
-    "price_display": "$719,000",
+    "price": 639000,
+    "price_display": "$639,000",
     "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-peridoto-24-santa-b-rbara-bonaire-bonaire",
     "broker": "RE/MAX Paradise Homes",
     "source": "bonaire-brokers.com",
