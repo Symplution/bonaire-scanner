@@ -3160,8 +3160,8 @@
   },
   {
     "title": "Crown West Villa",
-    "price": 2000000,
-    "price_display": "$2,000,000",
+    "price": 1800000,
+    "price_display": "$1,800,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-crown-west-villa",
     "broker": "Bonaire Real Estate Group",
     "source": "bonaire-brokers.com",
@@ -4750,15 +4750,6 @@
     "broker": "RE/MAX Paradise Homes",
     "source": "bonaire-brokers.com",
     "sold": false
-  },
-  {
-    "title": "Large Villa Consisting of in Total 3 Units!",
-    "price": 615000,
-    "price_display": "$615,000",
-    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-nawati-bonaire-bonaire",
-    "broker": "RE/MAX Paradise Homes",
-    "source": "bonaire-brokers.com",
-    "sold": true
   },
   {
     "title": "Famile Home in Sabadeco",
