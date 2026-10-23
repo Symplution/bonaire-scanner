@@ -1,5 +1,68 @@
 [
   {
+    "title": "favorite House • Tera Kora Kaya Bell bed 2 bathtub 2",
+    "price": 365000,
+    "price_display": "$365,000",
+    "url": "https://bonaire-brokers.com/properties/the-real-estate-guy-kaya-bell-cd5eb1",
+    "broker": "The Real Estate Guy",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite House • Kralendijk Beach Lot - Esmeralda 226 - Bonaire Eco Rentals",
+    "price": 1795000,
+    "price_display": "$1,795,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-beach-lot-esmeralda-226-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kralendijk Reef Eco Villas - Bonaire Eco Rentals bed 4 bathtub 4",
+    "price": 995000,
+    "price_display": "$995,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-reef-eco-villas-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Apartment • Kralendijk Sorobon Bay 3 & 4 - Bonaire Eco Rentals bed 1 bathtub 1",
+    "price": 499000,
+    "price_display": "$499,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-sorobon-bay-3-4-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite House • Kralendijk Sorobon 23-24 - Bonaire Eco Rentals bed 1 bathtub 1",
+    "price": 1049000,
+    "price_display": "$1,049,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-sorobon-23-24-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite Villa • Kralendijk Reef Ocean Villa - Bonaire Eco Rentals bed 5 bathtub 5",
+    "price": null,
+    "price_display": null,
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-reef-ocean-villa-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite House • Kralendijk Reef 6 - Bonaire Eco Rentals bed 4 bathtub 4",
+    "price": 919000,
+    "price_display": "$919,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-reef-6-bonaire-eco-rentals",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Villa • Sabadeco Crowns A villa built around privacy, space and the Caribbean horizon bed 4 bathtub 2.5 square_foot 753 m²",
     "price": 1750000,
     "price_display": "$1,750,000",
@@ -153,69 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Belnem Resort Bonaire Abundante bed 2 bathtub 3",
-    "price": 379000,
-    "price_display": "$379,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-abundante",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Villa • Punt Vierkant Punt Vierkant 11 A bed 2 bathtub 2 square_foot 123 m²",
-    "price": 659000,
-    "price_display": "$659,000",
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-a",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Villa • Punt Vierkant Punt Vierkant 11 C bed 2 bathtub 2 square_foot 123 m²",
-    "price": 549000,
-    "price_display": "$549,000",
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-c",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Villa • Punt Vierkant Punt Vierkant 11 B bed 2 bathtub 2 square_foot 123 m²",
-    "price": 549000,
-    "price_display": "$549,000",
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-b",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Villa • Punt Vierkant Punt Vierkant 11 D bed 2 bathtub 2 square_foot 123 m²",
-    "price": 639000,
-    "price_display": "$639,000",
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-d",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Villa • Kunuku Area Living off grid in Luxury at Luga Aleha 10 bed 4 bathtub 4",
-    "price": 1390000,
-    "price_display": "$1,390,000",
-    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-luga-aleha-10-kunuku-area-bonaire",
-    "broker": "RE/MAX Paradise Homes",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Apartment • Belnem Resort Bonaire Apartment C2.1 bed 2 bathtub 2",
-    "price": 399000,
-    "price_display": "$399,000",
-    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-resort-bonaire-apartment-c2-1-belnem-bonaire",
-    "broker": "RE/MAX Paradise Homes",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,69 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Resort Bonaire Abundante",
+    "price": 379000,
+    "price_display": "$379,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-abundante",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Punt Vierkant 11 A",
+    "price": 659000,
+    "price_display": "$659,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-a",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Punt Vierkant 11 C",
+    "price": 549000,
+    "price_display": "$549,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-c",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Punt Vierkant 11 B",
+    "price": 549000,
+    "price_display": "$549,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-b",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Punt Vierkant 11 D",
+    "price": 639000,
+    "price_display": "$639,000",
+    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-punt-vierkant-11-d",
+    "broker": "Q-Villas Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Living off grid in Luxury at Luga Aleha 10",
+    "price": 1390000,
+    "price_display": "$1,390,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-luga-aleha-10-kunuku-area-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Resort Bonaire Apartment C2.1",
+    "price": 399000,
+    "price_display": "$399,000",
+    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-resort-bonaire-apartment-c2-1-belnem-bonaire",
+    "broker": "RE/MAX Paradise Homes",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Large Building Lot with Great Views!",
@@ -675,7 +738,7 @@
     "sold": false
   },
   {
-    "title": "Beautiful Living in the Heart of Kralendijk",
+    "title": "Kaya Ruth 5A rental investment",
     "price": 499000,
     "price_display": "$499,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-realty-bonaire-playa",
@@ -806,15 +869,6 @@
     "price_display": "$3,750,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-realty-bonaire-oceanfront-punt-vierkant",
     "broker": "Bonaire Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "The Ultimate Seaside Luxury",
-    "price": null,
-    "price_display": null,
-    "url": "https://bonaire-brokers.com/properties/baerz-co-villas-price-on-application-in-bonaire-caribbean-netherlands-the-ultima",
-    "broker": "Baerz & Co",
     "source": "bonaire-brokers.com",
     "sold": false
   },
@@ -5166,6 +5220,15 @@
     "sold": false
   },
   {
+    "title": "Sorobon 21-22 - Bonaire Eco Rentals",
+    "price": 999995,
+    "price_display": "$999,995",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-sorobon-beach-house-number-21-22-157e628",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "Court 15",
     "price": null,
     "price_display": null,
@@ -5578,6 +5641,15 @@
     "broker": "Sunbelt Realty",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Sabadeco Crown West 206 - Bonaire Eco Rentals",
+    "price": 1480000,
+    "price_display": "$1,480,000",
+    "url": "https://bonaire-brokers.com/properties/eco-rentals-bonaire-santa-barbara-crowns-206-4dac093",
+    "broker": "Privéverkoop",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Kaya Krisolito 4-A-1110",
