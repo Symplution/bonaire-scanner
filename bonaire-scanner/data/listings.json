@@ -738,7 +738,7 @@
     "sold": false
   },
   {
-    "title": "Kaya Ruth 5A rental investment",
+    "title": "Living in heart of Kralendijk | Kaya Ruth 5A",
     "price": 499000,
     "price_display": "$499,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-realty-bonaire-playa",
@@ -4987,8 +4987,8 @@
   },
   {
     "title": "Cozy 1 bedroom Resort Condo",
-    "price": 249000,
-    "price_display": "$249,000",
+    "price": 215000,
+    "price_display": "$215,000",
     "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-resort-bonaire-apt-c-09-belnem-bonaire-bonaire",
     "broker": "RE/MAX Paradise Homes",
     "source": "bonaire-brokers.com",
@@ -5668,6 +5668,15 @@
     "broker": "Sunbelt Realty",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Suikerpalm 20",
+    "price": 275000,
+    "price_display": "$275,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-20",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Crown West 279",
