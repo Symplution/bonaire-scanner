@@ -1,5 +1,14 @@
 [
   {
+    "title": "favorite Apartment • Belnem Poolside Apartment 16 – Belnem House Bonaire bed 2 bathtub 1 square_foot 88 m²",
+    "price": 459000,
+    "price_display": "$459,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-poolside-apartment-16-belnem-house-bonaire",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite House • Tera Kora Kaya Bell bed 2 bathtub 2",
     "price": 365000,
     "price_display": "$365,000",
@@ -207,15 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Belnem Resort Bonaire Bunita bed 2 bathtub 2",
-    "price": 289000,
-    "price_display": "$289,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-bunita",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,15 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Resort Bonaire Bunita",
+    "price": 289000,
+    "price_display": "$289,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-bunita",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Resort Bonaire Abundante",
