@@ -1,5 +1,14 @@
 [
   {
+    "title": "favorite Apartment • Belnem Kaya Saturnus 4",
+    "price": 525000,
+    "price_display": "$525,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-saturnus-4",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Belnem Poolside Apartment 16 – Belnem House Bonaire bed 2 bathtub 1 square_foot 88 m²",
     "price": 459000,
     "price_display": "$459,000",
@@ -207,15 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Belnem Resort Bonaire Hardin bed 1 bathtub 1",
-    "price": 210000,
-    "price_display": "$210,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-hardin",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,15 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Resort Bonaire Hardin",
+    "price": 210000,
+    "price_display": "$210,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-resort-bonaire-hardin",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Resort Bonaire Bunita",
@@ -675,15 +684,6 @@
     "sold": false
   },
   {
-    "title": "Vista Royal Village 3919",
-    "price": 850000,
-    "price_display": "$850,000",
-    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-vista-royal-village-3919",
-    "broker": "Bonaire Real Estate Group",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Kaya Chroom 10",
     "price": 692000,
     "price_display": "$692,000",
@@ -999,15 +999,6 @@
     "sold": false
   },
   {
-    "title": "Bon Bida 16",
-    "price": 550000,
-    "price_display": "$550,000",
-    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-bon-bida-16",
-    "broker": "Bonaire Real Estate Group",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Reef 6 - Bonaire Eco Rentals",
     "price": 919000,
     "price_display": "$919,000",
@@ -1077,7 +1068,7 @@
     "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-santa-clara-kavel-5-e-31",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
-    "sold": true
+    "sold": false
   },
   {
     "title": "Yacht Residence Apartment B07",
@@ -3226,15 +3217,6 @@
     "price": 1800000,
     "price_display": "$1,800,000",
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-crown-west-villa",
-    "broker": "Bonaire Real Estate Group",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "Kaya Dorado Lot",
-    "price": 295000,
-    "price_display": "$295,000",
-    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-kaya-dorado-lot",
     "broker": "Bonaire Real Estate Group",
     "source": "bonaire-brokers.com",
     "sold": false
