@@ -1,5 +1,14 @@
 [
   {
+    "title": "favorite Lot • Kunuku Area Luga Aleha S5",
+    "price": 895000,
+    "price_display": "$895,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-luga-aleha-s5",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Apartment • Belnem Kaya Saturnus 4",
     "price": 525000,
     "price_display": "$525,000",
@@ -207,15 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Lot • Seru Blenchi Pure 36 plot 14",
-    "price": 196000,
-    "price_display": "$196,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-pure-36-plot-14",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,15 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Pure 36 plot 14",
+    "price": 196000,
+    "price_display": "$196,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-pure-36-plot-14",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Resort Bonaire Hardin",
@@ -3366,15 +3375,6 @@
     "sold": false
   },
   {
-    "title": "Crown Terrace 125",
-    "price": 395000,
-    "price_display": "$395,000",
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-crown-terrace-125",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Apartments",
     "price": null,
     "price_display": null,
@@ -3748,15 +3748,6 @@
     "price": 750000,
     "price_display": "$750,000",
     "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-vista-royal-village-lot-73",
-    "broker": "Lux Realty Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "Luxury living with panoramic views Bonaire",
-    "price": 1750000,
-    "price_display": "$1,750,000",
-    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-sabadeco-crown-terrace-26-kralendijk",
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": false
