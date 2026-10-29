@@ -1,5 +1,23 @@
 [
   {
+    "title": "favorite Commercial • Kralendijk Kaya Gob. N. Debrot 21 bathtub 7 square_foot 341 m²",
+    "price": 1329500,
+    "price_display": "$1,329,500",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-21-kaya-gob-n-debrot",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite House • Kralendijk Sirena Residence- Coming Soon bathtub 2 square_foot 123 m²",
+    "price": null,
+    "price_display": null,
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-sirena-residence-coming-soon",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Lot • Kunuku Area Luga Aleha S5",
     "price": 895000,
     "price_display": "$895,000",
@@ -198,24 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Bonaire Bloozz Apartements - 2005 square_foot 55 m²",
-    "price": 325000,
-    "price_display": "$325,000",
-    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-apartements-2005",
-    "broker": "Caribbean Homes Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Apartment • Hato Hòfi Azaléa A-06 bed 2 bathtub 3 square_foot 109 m²",
-    "price": 480000,
-    "price_display": "$480,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-h-fi-azal-a-06",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -232,6 +232,24 @@
     "broker": "Lux Realty Bonaire",
     "source": "bonaire-brokers.com",
     "sold": true
+  },
+  {
+    "title": "Bloozz Apartements - 2005",
+    "price": 325000,
+    "price_display": "$325,000",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-apartements-2005",
+    "broker": "Caribbean Homes Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Hòfi Azaléa A-06",
+    "price": 480000,
+    "price_display": "$480,000",
+    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-h-fi-azal-a-06",
+    "broker": "Sunbelt Realty",
+    "source": "bonaire-brokers.com",
+    "sold": false
   },
   {
     "title": "Pure 36 plot 14",
@@ -546,7 +564,7 @@
     "url": "https://bonaire-brokers.com/properties/sunbelt-realty-grand-windsock-villa-33",
     "broker": "Sunbelt Realty",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Terramar 12",
@@ -1293,7 +1311,7 @@
     "url": "https://bonaire-brokers.com/properties/sunbelt-realty-suikerpalm-39",
     "broker": "Sunbelt Realty",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Hato Business Park Phase 1",
@@ -1836,15 +1854,6 @@
     "sold": false
   },
   {
-    "title": "Beach Villa 3",
-    "price": null,
-    "price_display": null,
-    "url": "https://bonaire-brokers.com/properties/q-villas-bonaire-beach-villa-3",
-    "broker": "Q-Villas Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Home within walking distance of Bachelor Beach",
     "price": 549000,
     "price_display": "$549,000",
@@ -1949,6 +1958,15 @@
     "price_display": "$595,000",
     "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-45a-kaminda-lagoen",
     "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Den Laman Apartment",
+    "price": 650000,
+    "price_display": "$650,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-den-laman-apartment",
+    "broker": "Bonaire Real Estate Group",
     "source": "bonaire-brokers.com",
     "sold": false
   },
@@ -4525,15 +4543,6 @@
     "broker": "Sunbelt Realty",
     "source": "bonaire-brokers.com",
     "sold": true
-  },
-  {
-    "title": "Den Stashi 13",
-    "price": 285000,
-    "price_display": "$285,000",
-    "url": "https://bonaire-brokers.com/properties/sunbelt-realty-den-stashi-13",
-    "broker": "Sunbelt Realty",
-    "source": "bonaire-brokers.com",
-    "sold": false
   },
   {
     "title": "Seru Blenchi 27",
