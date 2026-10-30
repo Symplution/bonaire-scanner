@@ -1,5 +1,23 @@
 [
   {
+    "title": "favorite Apartment • Republiek Kaya Kuarts 29 bed 5 bathtub 3 square_foot 200 m²",
+    "price": 629000,
+    "price_display": "$629,000",
+    "url": "https://bonaire-brokers.com/properties/harbourtown-real-estate-29-kaya-kuarts",
+    "broker": "Harbourtown Real Estate",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "favorite House • Punt Vierkant Punt Vierkant 25 square_foot 190 m²",
+    "price": 795000,
+    "price_display": "$795,000",
+    "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-punt-vierkant-25",
+    "broker": "Bonaire Real Estate Group",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
     "title": "favorite Commercial • Kralendijk Kaya Gob. N. Debrot 21 bathtub 7 square_foot 341 m²",
     "price": 1329500,
     "price_display": "$1,329,500",
@@ -9,7 +27,7 @@
     "sold": false
   },
   {
-    "title": "favorite House • Kralendijk Sirena Residence- Coming Soon bathtub 2 square_foot 123 m²",
+    "title": "favorite House • Sabadeco Sirena Residence- Coming Soon bathtub 2 square_foot 123 m²",
     "price": null,
     "price_display": null,
     "url": "https://bonaire-brokers.com/properties/bonaire-real-estate-group-sirena-residence-coming-soon",
@@ -198,24 +216,6 @@
     "sold": false
   },
   {
-    "title": "favorite Apartment • Bonaire Port Bonaire Penthouse B303 bed 4 bathtub 2.5 square_foot 135 m²",
-    "price": 795000,
-    "price_display": "$795,000",
-    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-international-1-port-bonaire-b303",
-    "broker": "Lux Realty Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
-    "title": "favorite Apartment • Bonaire Bloozz Resort Bonaire - Studio 2005 square_foot 55 m²",
-    "price": 325000,
-    "price_display": "$325,000",
-    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-resort-bonaire-studio-2005",
-    "broker": "Caribbean Homes Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Eco Lodge Villa 7 – Off-Grid Villa on 353 m² Freehold Plot",
     "price": 295000,
     "price_display": "$295,000",
@@ -234,10 +234,19 @@
     "sold": true
   },
   {
-    "title": "Bloozz Apartements - 2005",
+    "title": "Port Bonaire Penthouse B303",
+    "price": 795000,
+    "price_display": "$795,000",
+    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-kaya-international-1-port-bonaire-b303",
+    "broker": "Lux Realty Bonaire",
+    "source": "bonaire-brokers.com",
+    "sold": false
+  },
+  {
+    "title": "Bloozz Resort Bonaire - Studio 2005",
     "price": 325000,
     "price_display": "$325,000",
-    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-apartements-2005",
+    "url": "https://bonaire-brokers.com/properties/caribbean-homes-bonaire-bloozz-resort-bonaire-studio-2005",
     "broker": "Caribbean Homes Bonaire",
     "source": "bonaire-brokers.com",
     "sold": false
@@ -3807,15 +3816,6 @@
     "sold": true
   },
   {
-    "title": "Prime building lot near Andrea dive site",
-    "price": 298000,
-    "price_display": "$298,000",
-    "url": "https://bonaire-brokers.com/properties/lux-realty-bonaire-45-crown-ridge-kralendijk-caribbean-netherlands",
-    "broker": "Lux Realty Bonaire",
-    "source": "bonaire-brokers.com",
-    "sold": false
-  },
-  {
     "title": "Watervillas Apartment",
     "price": null,
     "price_display": null,
@@ -4707,15 +4707,6 @@
     "sold": false
   },
   {
-    "title": "Building Lot Adjacent to Green Zone",
-    "price": 549000,
-    "price_display": "$549,000",
-    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-crown-west-249-sabadeco-bonaire-bonaire",
-    "broker": "RE/MAX Paradise Homes",
-    "source": "bonaire-brokers.com",
-    "sold": true
-  },
-  {
     "title": "Two Homes Under One Roof",
     "price": 475000,
     "price_display": "$475,000",
@@ -4887,15 +4878,6 @@
     "sold": false
   },
   {
-    "title": "Newly Built Villa with Unobstructed Ocean Views",
-    "price": 1475000,
-    "price_display": "$1,475,000",
-    "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-el-pueblo-2-sabadeco-bonaire-bonaire",
-    "broker": "RE/MAX Paradise Homes",
-    "source": "bonaire-brokers.com",
-    "sold": true
-  },
-  {
     "title": "Grand Windsock Villa 22",
     "price": 570000,
     "price_display": "$570,000",
@@ -4992,7 +4974,7 @@
     "url": "https://bonaire-brokers.com/properties/re-max-paradise-homes-kaya-dorado-17a-santa-b-rbara-bonaire-bonaire",
     "broker": "RE/MAX Paradise Homes",
     "source": "bonaire-brokers.com",
-    "sold": false
+    "sold": true
   },
   {
     "title": "Apartment Steps Away from Cha Cha Cha Beach!",
