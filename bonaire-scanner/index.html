@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bonaire Vastgoed Scanner — bonaire-scanner.com</title>
-<meta name="description" content="Compleet overzicht van alle woningen te koop op Bonaire. 3 actuele listings van alle makelaars, dagelijks bijgewerkt.">
+<meta name="description" content="Compleet overzicht van alle woningen te koop op Bonaire. 4 actuele listings van alle makelaars, dagelijks bijgewerkt.">
 <meta property="og:title" content="Bonaire Vastgoed Scanner">
-<meta property="og:description" content="3 woningen te koop op Bonaire — dagelijks bijgewerkt">
+<meta property="og:description" content="4 woningen te koop op Bonaire — dagelijks bijgewerkt">
 <meta property="og:url" content="https://bonaire-scanner.com">
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -96,8 +96,8 @@
     <p>2 aggregators · 2 makelaars · Dagelijks bijgewerkt</p>
   </div>
   <div class="header-stats">
-    <div class="stat"><div class="num" id="stat-total">3</div><div class="lbl">Listings</div></div>
-    <div class="stat"><div class="num">3</div><div class="lbl">Met prijs</div></div>
+    <div class="stat"><div class="num" id="stat-total">4</div><div class="lbl">Listings</div></div>
+    <div class="stat"><div class="num">4</div><div class="lbl">Met prijs</div></div>
     <div class="stat"><div class="num">2</div><div class="lbl">Makelaars</div></div>
     <div class="stat"><div class="num">2</div><div class="lbl">Verkocht</div></div>
   </div>
@@ -106,8 +106,8 @@
   <input class="search-box" type="text" id="search" placeholder="Zoeken op naam, makelaar..." oninput="render()">
   <select id="broker-filter" onchange="render()"><option value="">Alle makelaars</option></select>
   <select id="source-filter" onchange="render()">
-    <option value="">Alle bronnen (3)</option>
-    <option value="bonaire-brokers.com">bonaire-brokers.com (3)</option>
+    <option value="">Alle bronnen (4)</option>
+    <option value="bonaire-brokers.com">bonaire-brokers.com (4)</option>
     <option value="casadushi">Casa Dushi — uniek (0)</option>
   </select>
   <select id="sort" onchange="render()">
@@ -127,7 +127,7 @@
   </div>
   <div class="social-body" id="social-body">
     <div style="background:#fffbeb;border:1.5px solid #f6c05c;border-radius:8px;padding:12px 16px;margin-bottom:14px;font-size:0.85rem;line-height:1.5;color:#744210;">
-      <strong>ℹ️ Twee aggregators gecombineerd:</strong> 3 listings van <strong>bonaire-brokers.com</strong> + 0 extra unieke listings van <strong>Casa Dushi</strong>. Privéverkopen staan op Facebook-groepen hieronder.
+      <strong>ℹ️ Twee aggregators gecombineerd:</strong> 4 listings van <strong>bonaire-brokers.com</strong> + 0 extra unieke listings van <strong>Casa Dushi</strong>. Privéverkopen staan op Facebook-groepen hieronder.
     </div>
     <div class="social-section-title">Facebook Groepen — privéaanbod &amp; makelaars</div>
     <div class="fb-sources-grid"><a class="fb-source" href="https://www.facebook.com/groups/1431665287083633/" target="_blank" rel="noopener"><span class="fb-icon">👥</span><span class="fb-name">Bonaire Housing</span><span class="fb-meta">5,1k leden · 4/dag</span></a><a class="fb-source" href="https://www.facebook.com/groups/734192220001499/" target="_blank" rel="noopener"><span class="fb-icon">👥</span><span class="fb-name">Woonruimte aangeboden/gezocht Bonaire</span><span class="fb-meta">6,2k leden · 2/dag</span></a><a class="fb-source" href="https://www.facebook.com/groups/420372482625777/" target="_blank" rel="noopener"><span class="fb-icon">👥</span><span class="fb-name">Real Estate Bonaire</span><span class="fb-meta">1k leden</span></a><a class="fb-source" href="https://www.facebook.com/groups/290871973400525/" target="_blank" rel="noopener"><span class="fb-icon">👥</span><span class="fb-name">Bouwen op Bonaire</span><span class="fb-meta">2,5k leden</span></a><a class="fb-source" href="https://www.facebook.com/groups/792549405822085/" target="_blank" rel="noopener"><span class="fb-icon">👥</span><span class="fb-name">Bonaire House for rent</span><span class="fb-meta">13k leden · 9/dag</span></a></div>
@@ -140,7 +140,7 @@
 <div class="segments" id="segments"></div>
 <div class="results-count" id="results-count"></div>
 <div class="content" id="content"></div>
-<div class="last-updated">Laatst bijgewerkt: 2026-11-24 20:01:53 UTC · <span style="color:#10b981">■</span> = uniek via Casa Dushi<br>
+<div class="last-updated">Laatst bijgewerkt: 2026-11-25 19:01:56 UTC · <span style="color:#10b981">■</span> = uniek via Casa Dushi<br>
 <button id="refresh-btn" onclick="refreshNow()" style="margin-top:10px;padding:8px 16px;border:1px solid #cbd5e0;border-radius:8px;background:#fff;cursor:pointer;font-size:0.85rem">🔄 Nu verversen</button>
 <div id="refresh-msg" style="margin-top:6px"></div></div>
 <script>
@@ -154,7 +154,7 @@ async function refreshNow(){
   }catch(e){m.textContent='Mislukt, probeer later opnieuw.';}
   setTimeout(()=>{b.disabled=false},30000);
 }
-const LISTINGS=[{"title": "favorite Villa • Kralendijk The only Villa for sale with a huge (private) dock bed 4 bathtub 3 square_foot 250 m²", "price": 1695000, "price_display": "$1,695,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-the-only-villa-for-sale-with-a-huge-private-dock", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": false}, {"title": "By Owner favorite Lot • Bara di karta Kunuku Bara Di Karta square_foot 5,000 m²", "price": 250000, "price_display": "$250,000", "url": "https://bonaire-brokers.com/properties/kunuku-for-sale-by-owner", "broker": "Privéverkoop", "source": "bonaire-brokers.com", "sold": false}, {"title": "By Owner favorite Villa • nikiboko-noord Vista royal village 45 bed 4 bathtub 2.5 square_foot 200 m²", "price": 750000, "price_display": "$750,000", "url": "https://bonaire-brokers.com/properties/vista-royal-village-45-mr3o0pf2", "broker": "Privéverkoop", "source": "bonaire-brokers.com", "sold": false}, {"title": "favorite House • Hato New build home. Kaya Breda 72A(Hato) Bonaire bed 2 bathtub 2 square_foot 87 m²", "price": 292000, "price_display": "$292,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-new-build-home-kaya-breda-72a-hato-bonaire", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": true}, {"title": "favorite House • Kralendijk Kaya Hulanda 32, Freestanding house in Centre of Kralendijk. A Rough diamond for polishing bed 3 bathtub 1 square_foot 100 m²", "price": 335000, "price_display": "$335,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-kaya-hulanda-32-freestanding-house-in-centre-of-kralendijk-a-rough", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": true}];
+const LISTINGS=[{"title": "favorite Villa • Santa Barbara Villa in Santa Barbara (new built) bed 4 bathtub 4 square_foot 400 m²", "price": 1150000, "price_display": "$1,150,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-villa-in-santa-barbara-new-built", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": false}, {"title": "favorite Villa • Kralendijk The only Villa for sale with a huge (private) dock bed 4 bathtub 3 square_foot 250 m²", "price": 1695000, "price_display": "$1,695,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-the-only-villa-for-sale-with-a-huge-private-dock", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": false}, {"title": "By Owner favorite Lot • Bara di karta Kunuku Bara Di Karta square_foot 5,000 m²", "price": 250000, "price_display": "$250,000", "url": "https://bonaire-brokers.com/properties/kunuku-for-sale-by-owner", "broker": "Privéverkoop", "source": "bonaire-brokers.com", "sold": false}, {"title": "By Owner favorite Villa • nikiboko-noord Vista royal village 45 bed 4 bathtub 2.5 square_foot 200 m²", "price": 750000, "price_display": "$750,000", "url": "https://bonaire-brokers.com/properties/vista-royal-village-45-mr3o0pf2", "broker": "Privéverkoop", "source": "bonaire-brokers.com", "sold": false}, {"title": "favorite House • Hato New build home. Kaya Breda 72A(Hato) Bonaire bed 2 bathtub 2 square_foot 87 m²", "price": 292000, "price_display": "$292,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-new-build-home-kaya-breda-72a-hato-bonaire", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": true}, {"title": "favorite House • Kralendijk Kaya Hulanda 32, Freestanding house in Centre of Kralendijk. A Rough diamond for polishing bed 3 bathtub 1 square_foot 100 m²", "price": 335000, "price_display": "$335,000", "url": "https://bonaire-brokers.com/properties/bonne-bonaire-kaya-hulanda-32-freestanding-house-in-centre-of-kralendijk-a-rough", "broker": "Bonne Bonaire", "source": "bonaire-brokers.com", "sold": true}];
 const COLORS={"RE/MAX Paradise Homes": "#e53e3e", "Sunbelt Realty": "#dd6b20", "Karko Real Estate": "#d69e2e", "Q-Villas Bonaire": "#38a169", "The Real Estate Guy": "#319795", "Bonaire Realty": "#3182ce", "Harbourtown Real Estate": "#805ad5", "Bonaire Real Estate Group": "#d53f8c", "Caribbean Homes Bonaire": "#e07070", "Keller Williams Bonaire": "#dd6b20", "Lux Realty Bonaire": "#56a56a", "RJ Real Estate": "#2d9fb5", "Baerz & Co": "#4a8dd4", "NLC Real Estate": "#9070d0", "Bonne Bonaire": "#7b2d8b", "Priv\u00e9verkoop": "#10b981", "Onbekend": "#aaaaaa"};
 const SEGMENTS=[
   {id:'all',label:'Alles',min:0,max:Infinity},
